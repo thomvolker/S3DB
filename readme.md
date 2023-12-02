@@ -1,6 +1,4 @@
----
-title: "Social Science Synthetic Data Benchmark"
----
+# Social Science Synthetic Data Benchmark
 
 ## Inclusion criteria
 
