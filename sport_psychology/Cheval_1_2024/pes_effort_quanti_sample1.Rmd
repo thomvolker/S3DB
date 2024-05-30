@@ -1,0 +1,359 @@
+# original R file form Zenodo
+---
+title: "Quantitative analysis - sample 1"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+---
+
+### All the R package below are not necessary
+```{r}
+library(ggplot2)
+library(QuantPsyc)
+library(readr)
+library(tidyr)
+library(forcats)
+library(readxl)
+library(psych)
+library(interactions)
+library(plyr)
+library(tidyverse)
+library(Hmisc)
+library(factoextra)
+library(olsrr)
+library(Hmisc)
+library(xtable)
+library(psy)
+library(Superpower)
+library(car)
+library(plyr)
+library(FactoMineR)
+library(lattice)
+library(devtools)
+library(rmarkdown)
+library(questionr)
+library(lm.beta)
+library(knitr)
+library(ggplot2)
+library(gghalves)
+library(htmltools)
+library(margins)
+library(lme4)
+library(lmerTest)
+library(lmtest)
+library(openxlsx)
+library(dplyr)
+library(lavaan)
+library(grmsem)
+library(ltm)
+library(hrbrthemes)
+```
+
+### LOAD THE DATA 
+```{r}
+Physical_Effort_Scale_Data_Fall_2022 <- dataset
+```
+
+# rename some variables
+```{r}
+pes <- Physical_Effort_Scale_Data_Fall_2022
+pes <- rename.variable(pes, "Consent 1","consent_1")
+pes <- rename.variable(pes, "Consent 2","consent_2")
+pes <- rename.variable(pes, "Q60","PA_profile")
+```
+
+## Apply inclusion and exclusion criteria
+```{r}
+pes <- pes[2:919,]
+pes <- subset(pes, Finished == "True")
+pes <- subset(pes, consent_1 == "Yes" & consent_2 == "Yes")
+pes <- subset(pes, UserLanguage == "EN")
+pes <- subset(pes, Finished == "True")
+pes <- subset(pes, consent_1 == "Yes" & consent_2 == "Yes")
+```
+
+## select the variable of interest of the descriptive statistics
+```{r}
+pes_clean <- pes %>% dplyr::select(contains(c("pes")), "Gender", "Faculty", "Program" , "Year Program", "First Semester", "PA_profile")
+```
+
+## REPLACE VALUES OF PES AND OF PA Profile
+```{r}
+pes_clean[pes_clean=="1 - I completely disagree"] <- "1"
+pes_clean[pes_clean=="2 - I disagree"] <- "2"
+pes_clean[pes_clean=="3 - I neither agree nor disagree"] <- "3"
+pes_clean[pes_clean=="4 - I agree"] <- "4"
+pes_clean[pes_clean=="5 - I completely agree"] <- "5"
+
+pes_clean["PA_profile"][pes_clean["PA_profile"] == "Regular hard physical training for competition sports: running events, orienteering, skiing, swimming, soccer, or similar activities, several times per week."] <- "Vigorous PA"
+  
+pes_clean["PA_profile"][pes_clean["PA_profile"] == "Regular moderate physical activity and training: heavy gardening, running, swimming, fitness, tennis, badminton, or similar activities, for at least 2 to 3 hours by week."] <- "Moderate PA"
+    
+pes_clean["PA_profile"][pes_clean["PA_profile"] == "Sedentary: being almost completely inactive: reading, TV watching, movies, using computers or doing other sedentary activities during leisure time."] <- "Inactive"
+    
+pes_clean["PA_profile"][pes_clean["PA_profile"] == "Some light physical activity: riding a bicycle, walking with the family, gardening, table tennis, bowling, or similar activities, for at least 4 hours by week."] <- "Light PA"
+
+table(pes_clean$PA_profile)
+```
+
+## Descriptive statistics
+```{r}
+table(pes_clean$Gender)
+table(pes_clean$Faculty)
+table(pes_clean$`Year Program`)
+```
+
+## FIRST STEP PCA ANALYSIS
+### REMOVE ALL INCOMPLETE DATA ON PES
+```{r}
+pes_na <- na.omit(pes_clean)
+```
+
+# create the data set (pes_efa), with only the 8 items
+```{r}
+pes_efa <- pes_na %>% dplyr::select(contains("pes_"))
+pes_efa <- pes_efa[,5:22]
+```
+
+```{r}
+pes_efa <- pes_efa %>% mutate_if(is.character, as.numeric)
+```
+
+```{r}
+dial.pca <- princomp(as.matrix(pes_efa))
+summary(dial.pca)
+```
+```{r}
+screeplot(dial.pca,npcs=15) #npcs is the number of components to plot, should be more than n dimensions expected
+```
+****************************************
+Three criteria
+(1)	The bend (number of factors before the elbow)
+(2)	The component (based on the eigenvalues (i.e., standard deviation in the R output) based on the Kaiser’s rule of > 1. 
+(3)	The >80% of variance explained (but usually not reached in social sciences).
+In our case, (1) suggest 1 factor and (2) suggest 3 factors.
+Thus, we have to test an EFA with one factor, with 3 factors, but also with 2 factors as theoretical expected.
+****************************************
+
+## SECOND STEP EFA ANALYSIS (promax rotation)
+```{r}
+dial.efa_1F <- factanal(as.matrix(pes_efa),factors=1,
+                     cor=T,rotation="promax")
+print(dial.efa_1F)
+```
+
+```{r}
+dial.efa_2F <- factanal(as.matrix(pes_efa),factors=2,
+                     cor=T,rotation="promax")
+print(dial.efa_2F)
+```
+
+```{r}
+dial.efa_3F <- factanal(as.matrix(pes_efa),factors=3,
+                     cor=T,rotation="promax")
+print(dial.efa_3F)
+```
+
+## THIRD STEP: ITEM RESPONSE THEORY
+****************************************
+one analysis for each dimension separately.
+
+# APPROACH DIMENSION
+```{r}
+pes_efa_app <- pes_efa[,c(1,3,5,7,9,11,13,15,18)]
+```
+
+```{r}
+dimension1.grm <- grm(pes_efa_app, Hessian = TRUE)
+dimension1 <- descript(pes_efa_app,chi.squared=F)
+
+plot(dimension1.grm, type = "IIC", lwd = 2, cex = 1, legend = TRUE, cx = "topright",main="",
+     xlab = "Approach toward effort", cex.main = 1.2, cex.lab = 1.2, cex.axis = 1.1)
+```
+
+# response modalities
+```{r}
+table (pes_efa$PES_1)
+table (pes_efa$PES_3)
+table (pes_efa$PES_5)
+table (pes_efa$PES_7)
+table (pes_efa$PES_9)
+table (pes_efa$PES_11)
+table (pes_efa$PES_13)
+table (pes_efa$PES_15)
+table (pes_efa$PES_18)
+
+```
+
+```{r}
+pes_efa_app_short <- pes_efa[,c(3,7,15,18)]
+```
+
+```{r}
+dimension1.grm <- grm(pes_efa_app_short, Hessian = TRUE)
+dimension1 <- descript(pes_efa_app_short,chi.squared=F)
+
+plot(dimension1.grm, type = "IIC", lwd = 2, cex = 1, legend = TRUE, cx = "topright",main="",
+     xlab = "Approach toward effort", cex.main = 1.2, cex.lab = 1.2, cex.axis = 1.1)
+```
+ 
+# AVOIDANCE DIMENSION
+```{r}
+pes_efa_avoid <- pes_efa[,c(2,4,6,8,10,12,14,16,17)]
+```
+
+```{r}
+dimension1.grm <- grm(pes_efa_avoid, Hessian = TRUE)
+dimension1 <- descript(pes_efa_avoid,chi.squared=F)
+
+plot(dimension1.grm, type = "IIC", lwd = 2, cex = 1, legend = TRUE, cx = "topright",main="",
+     xlab = "Avoidance toward effort", cex.main = 1.2, cex.lab = 1.2, cex.axis = 1.1)
+```
+# response modalities
+
+```{r}
+table (pes_efa$PES_2)
+table (pes_efa$PES_4)
+table (pes_efa$PES_6)
+table (pes_efa$PES_8)
+table (pes_efa$PES_10)
+table (pes_efa$PES_12)
+table (pes_efa$PES_14)
+table (pes_efa$PES_16)
+table (pes_efa$PES_17)
+```
+
+#Second analysis for the avoidance dimension wit less items (without 10 and 16)
+```{r}
+pes_efa_avoid_short <- pes_efa[,c(4,6,12,17)]
+```
+
+```{r}
+dimension1.grm <- grm(pes_efa_avoid_short, Hessian = TRUE)
+dimension1 <- descript(pes_efa_avoid_short,chi.squared=F)
+
+plot(dimension1.grm, type = "IIC", lwd = 2, cex = 1, legend = TRUE, cx = "topright",main="",
+     xlab = "Avoidance toward effort", cex.main = 1.2, cex.lab = 1.2, cex.axis = 1.1)
+```
+
+## STEP 3: CFA analysis
+```{r}
+pes_na <- pes_na %>% mutate_at(c("PES_1", "PES_3", "PES_5","PES_7", "PES_9", "PES_11", "PES_13", "PES_15", "PES_18", "PES_2", "PES_4", "PES_6","PES_8", "PES_10", "PES_12", "PES_14", "PES_16", "PES_17"), as.numeric)
+```
+
+```{r}
+model_cfa1 <-'
+approach =~ PES_3 + PES_7 + PES_18 + PES_15 
+avoidance =~ PES_4 + PES_6 + PES_12 + PES_17
+
+approach ~~ avoidance
+'
+
+fit<- lavaan::sem(model_cfa1,data=pes_na,orthogonal = TRUE)
+
+summary(fit,fit.measures=TRUE,standardized=TRUE,rsquare=TRUE, ci = .95)
+```
+## INTERNAL CONSISTENCY ACROSS DIMENSIONS 
+## FOR THE APPROACH DIMENSION
+```{r}
+pes_approach <- pes_efa %>% dplyr::select("PES_3","PES_7", "PES_15", "PES_18")
+```
+
+```{r}
+cronbach(pes_approach)
+```
+## FOR THE AVOIDANCE DIMENSION
+```{r}
+pes_avoid <- pes_efa %>% dplyr::select("PES_4", "PES_6", "PES_12", "PES_17")
+```
+
+```{r}
+cronbach(pes_avoid)
+```
+
+### PRELIMINARY CONSTRCUT VALIDITY: DESCRIBE BY PA PROFILE 
+```{r}
+library(gghalves)
+library(hrbrthemes)
+library(MetBrewer)
+```
+
+```{r}
+pes_na <- mutate(pes_na, pes_approach = (PES_3 + PES_7 + PES_15 + PES_18)/4)
+
+pes_na <- mutate(pes_na, pes_avoid = (PES_4 + PES_6 + PES_12 + PES_17)/4)
+```
+
+
+### Approach dimension
+```{r, warning = FALSE}
+ggplot(pes_na, aes(x = PA_profile, y = pes_approach, fill = PA_profile, color = PA_profile)) +
+  geom_half_violin(position = position_nudge(x=0.1), 
+                   side="r", 
+                   alpha =.8, 
+                   color = "white") + 
+  
+  geom_jitter(width = .05, 
+              height = 0, 
+              alpha = .1) +
+  
+  stat_summary(aes(group = PA_profile), 
+               geom = "pointrange",fun = "mean", 
+               fun.min = function(x) mean(x) - sd(x)/2, 
+               fun.max = function(x) mean(x) + sd(x)/2, 
+               size = .75, 
+               alpha = 1) +
+  
+  scale_color_manual(values=met.brewer("Cross", 4)) +
+  
+  scale_fill_manual(values=met.brewer("Cross", 4)) +
+  
+  
+  scale_y_continuous(limits = c(1,5), breaks = c(1, 2, 3, 4, 5)) + 
+  
+  ylab("Approach dimension") +
+
+  xlab("PA profile") +
+  theme_classic() + guides(fill="none", color = "none") 
+```
+
+## FOR THE AVOIDANCE DIMENSION 
+```{r}
+ggplot(pes_na, aes(x = PA_profile, y = pes_avoid, fill = PA_profile, color = PA_profile)) +
+  geom_half_violin(position = position_nudge(x=0.1), 
+                   side="r", 
+                   alpha =.8, 
+                   color = "white") + 
+  
+  geom_jitter(width = .05, 
+              height = 0, 
+              alpha = .1) +
+  
+  stat_summary(aes(group = PA_profile), 
+               geom = "pointrange",fun = "mean", 
+               fun.min = function(x) mean(x) - sd(x)/2, 
+               fun.max = function(x) mean(x) + sd(x)/2, 
+               size = .75, 
+               alpha = 1) +
+  
+  scale_color_manual(values=met.brewer("Cross", 4)) +
+  
+  scale_fill_manual(values=met.brewer("Cross", 4)) +
+  
+  
+  scale_y_continuous(limits = c(1,5), breaks = c(1, 2, 3, 4, 5)) + 
+  
+  ylab("Avoid dimension") +
+
+  xlab("PA profile") +
+  theme_classic() + guides(fill="none", color = "none") 
+```
+# multiple linear regression
+```{r}
+RLM_approach <- lm(pes_approach ~ PA_profile, data = pes_na)
+summary(RLM_approach)
+```
+
+

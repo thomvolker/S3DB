@@ -1,0 +1,635 @@
+TimerPES_First Click,TimerPES_Last Click,TimerPES_Page Submit,TimerPES_Click Count,PES_1,PES_2,PES_3,PES_4,PES_5,PES_6,PES_7,PES_8,PES_9,PES_10,PES_11,PES_12,PES_13,PES_14,PES_15,PES_16,PES_17,PES_18,Gender,Faculty,Program,Year Program,First Semester,PA_profile
+3.4369999999999998,23.306000000000001,24.734000000000002,19,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Light PA
+13.241,85.817999999999998,88.432000000000002,18,2,2,2,2,4,2,2,2,2,2,4,3,2,2,4,4,2,1,Female,Faculty of Health Sciences,Health Science,1st year,Yes,Inactive
+6.0049999999999999,260.97000000000003,262.45,21,3,3,4,3,4,3,4,3,2,1,3,3,3,2,4,5,1,5,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Light PA
+10.755000000000001,82.043000000000006,83.637,24,3,3,3,3,3,2,3,2,2,3,2,4,2,3,4,5,2,4,Female,Faculty of Science,Biomedical science,1st year,Yes,Light PA
+8.8800000000000008,116.724,117.65,38,4,4,2,2,2,4,4,4,2,4,2,4,2,2,2,2,3,2,Female,Telfer School of Management,Accounting,1st year,Yes,Light PA
+4.9660000000000002,158.31,159,23,3,1,5,2,5,2,5,1,5,1,4,2,5,1,4,2,1,5,Female,Faculty of Science,Biomedical Science,2nd year,No,Light PA
+0.67600000000000005,13.185,13.96,20,3,4,4,2,3,4,3,2,4,3,4,4,3,4,4,4,3,2,Female,Telfer School of Management,Commerce JD,2nd year,No,Inactive
+78.838999999999999,284.11900000000003,284.67899999999997,29,4,2,4,2,3,3,4,2,3,2,3,2,4,2,4,3,2,3,Male,Faculty of Health Sciences,Health Science,1st year,Yes,Vigorous PA
+5.9290000000000003,71.932000000000002,72.974999999999994,20,2,4,2,4,3,4,2,4,3,2,2,3,2,4,2,4,4,4,Female,Faculty of Health Sciences,Human kinetics,3rd year,No,Inactive
+10.978999999999999,68.881,69.802999999999997,31,3,4,2,2,2,4,2,2,2,2,2,4,2,4,2,4,4,2,Female,Faculty of Health Sciences,Bachelors in health sciences in French immersion,1st year,Yes,Light PA
+7.6580000000000004,76.774000000000001,80.251000000000005,29,4,3,3,3,4,2,3,2,2,2,1,3,2,2,2,2,2,2,Female,Telfer School of Management,Human Resource Management,2nd year,No,Light PA
+3.4279999999999999,522.02499999999998,522.86300000000006,27,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,4,2,4,Male,Telfer School of Management,B.Com,2nd year,No,Moderate PA
+3.9,65.712000000000003,66.575999999999993,20,4,1,4,1,4,1,3,1,3,1,4,1,4,1,4,1,1,4,Female,Faculty of Arts,Second Language Teaching,1st year,Yes,Moderate PA
+128.702,228.39400000000001,230.33099999999999,21,4,2,2,2,5,2,2,4,2,1,2,3,2,2,4,4,2,4,Female,Faculty of Science,biomedical sciences,3rd year,No,Inactive
+48.110999999999997,141.58099999999999,142.80099999999999,24,3,4,2,4,2,4,1,3,1,3,2,4,4,2,2,4,4,3,Female,Telfer School of Management,Honours Business Technology Management,1st year,Yes,Inactive
+10.97,96.858999999999995,97.924999999999997,23,4,2,4,2,2,2,3,2,3,4,2,4,4,2,4,4,2,4,Female,Faculty of Science,Biomedical Sciences,1st year,Yes,Light PA
+7.1909999999999998,65.180999999999997,66.150999999999996,31,2,3,4,2,3,2,3,2,3,4,3,3,3,2,4,4,3,3,Female,Faculty of Science,Biomedical Science,2nd year,No,Inactive
+12.178000000000001,117.461,119.905,18,3,2,3,2,4,2,3,2,3,1,3,2,3,2,4,4,2,4,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Moderate PA
+9.8789999999999996,188.41499999999999,189.28899999999999,24,5,1,4,1,5,4,4,1,5,1,4,1,4,1,4,2,1,5,Male,Telfer School of Management,B. Commerce and J.D.,2nd year,No,Moderate PA
+13.864000000000001,75.578999999999994,76.072000000000003,25,4,4,4,2,4,2,4,2,3,2,3,2,4,2,4,2,2,4,Male,Telfer School of Management,"B.Com, Marketing",2nd year,No,Moderate PA
+4.859,65.188000000000002,66.400999999999996,19,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,1,5,1,Female,Telfer School of Management,finance,1st year,Yes,Inactive
+24.192,109.759,114.654,18,3,2,4,2,4,2,3,2,3,2,4,2,4,2,5,3,2,4,Female,Faculty of Science,Biomedical Science,1st year,Yes,Moderate PA
+9.0419999999999998,64.463999999999999,65.501000000000005,21,4,2,2,2,3,2,2,3,2,2,2,3,2,2,3,3,2,4,Female,Telfer School of Management,Management,2nd year,No,Vigorous PA
+6.5519999999999996,77.634,78.843000000000004,24,4,3,3,2,4,2,1,2,3,1,1,1,4,1,4,4,1,4,Female,Faculty of Social Sciences,Bsc Psychology,4th year,No,Moderate PA
+9.68,108.414,109.893,22,3,2,3,2,3,2,4,2,2,2,3,2,3,2,4,3,2,4,Female,Faculty of Health Sciences,nursing,1st year,Yes,Moderate PA
+5.3920000000000003,73.242000000000004,74.628,19,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,3,2,4,Female,Faculty of Science,Biomedical Science,1st year,Yes,Moderate PA
+20.76,144.845,147.49,18,2,4,2,4,2,4,2,4,2,3,2,2,2,3,2,4,2,3,Female,Faculty of Arts,Communication,4th year,No,Inactive
+21.268999999999998,171.738,172.85300000000001,20,1,4,2,4,3,4,2,4,2,3,2,3,2,4,2,4,2,2,Female,Faculty of Arts,Communications,4th year,No,Inactive
+3.0649999999999999,78.406000000000006,79.483000000000004,26,2,4,2,4,1,5,1,5,1,1,1,5,1,5,1,3,5,5,Female,Telfer School of Management,Management,2nd year,No,Inactive
+26.684000000000001,173.19399999999999,174.15199999999999,22,4,1,4,1,5,1,4,1,3,1,3,1,3,1,4,2,1,4,Female,Faculty of Arts,Second Language Teaching,2nd year,No,Moderate PA
+16.972999999999999,95.278000000000006,96.747,24,5,1,5,1,5,1,4,1,5,1,4,1,5,1,5,5,1,5,Female,Faculty of Science,biomedical science,2nd year,No,Moderate PA
+45.718000000000004,91.230999999999995,92.733999999999995,22,3,2,3,2,4,2,4,2,4,2,4,1,4,1,4,2,1,4,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Light PA
+99.754000000000005,205.09299999999999,205.94800000000001,25,2,3,2,2,2,4,2,4,2,3,2,4,3,3,2,4,4,3,Female,Faculty of Social Sciences,BSC in Psychology (french immersion stream),1st year,Yes,Inactive
+3.125,71.173000000000002,72.748999999999995,19,2,4,2,4,2,4,2,4,2,4,1,4,2,3,1,3,4,3,Male,Faculty of Egineering,Computer Science,4th year,No,Light PA
+65.277000000000001,176.89500000000001,179.488,19,4,2,4,2,3,2,4,2,4,2,3,2,3,2,4,4,2,4,Female,Faculty of Science,Nursing,1st year,Yes,Light PA
+4.8499999999999996,95.891000000000005,97.186999999999998,20,1,4,3,4,4,4,4,4,2,1,1,2,1,3,4,4,2,4,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Inactive
+4.5910000000000002,53.07,53.378999999999998,22,2,5,1,5,2,2,1,1,1,4,1,5,1,5,2,2,2,2,Perfer not to disclose,Faculty of Science,biomed sciences,1st year,Yes,Inactive
+8.4809999999999999,133.566,135.19999999999999,20,4,2,4,2,2,4,2,2,2,4,2,2,4,2,4,4,2,4,Female,Faculty of Health Sciences,Health Sciences,1st year,Yes,Light PA
+4.4560000000000004,178.495,178.858,25,2,3,2,3,3,4,2,4,2,2,2,3,2,4,3,2,3,2,Female,Telfer School of Management,Finance,2nd year,No,Moderate PA
+20.28,135.49600000000001,141.52000000000001,19,5,1,5,1,5,1,5,1,5,1,4,2,5,1,5,3,1,5,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Moderate PA
+117.07,233.77600000000001,234.542,19,5,2,4,2,4,2,4,2,3,2,4,2,4,2,4,3,2,4,Female,Telfer School of Management,Business and management,5th year,Yes,Moderate PA
+45.956000000000003,138.11099999999999,139.26400000000001,21,2,4,2,4,2,4,2,4,2,1,2,4,2,4,2,4,4,2,Female,Faculty of Science,Biomedical Science,2nd year,No,Light PA
+11.446,72.58,77.233000000000004,25,3,2,4,1,4,1,4,2,3,1,2,2,3,2,4,4,1,4,Female,Faculty of Health Sciences,health science,1st year,Yes,Moderate PA
+327.37200000000001,444.48,445.57299999999998,19,3,5,2,5,3,5,2,5,3,5,1,3,1,5,1,1,1,1,Female,Faculty of Social Sciences,Psychology Bsc,1st year,Yes,Light PA
+4.5119999999999996,172.97200000000001,174.01599999999999,33,4,1,4,1,4,1,4,1,4,2,4,2,4,1,4,4,1,4,Male,Telfer School of Management,Accounting,2nd year,No,Light PA
+11.712999999999999,142.80000000000001,144.417,22,5,1,5,1,5,1,5,1,3,1,4,1,3,1,4,4,1,5,Female,Faculty of Health Sciences,Health Sciences,5th year,No,Moderate PA
+2.5870000000000002,75.207999999999998,76.876000000000005,23,2,5,2,5,3,4,2,4,2,4,1,4,2,4,3,4,4,3,Female,Faculty of Science,Biomedical science,1st year,Yes,Inactive
+391.60300000000001,495.654,496.76799999999997,22,2,4,2,4,2,2,3,2,2,4,3,4,3,2,3,4,4,3,Female,Faculty of Social Sciences,BA in Psychology in French Immersion,1st year,Yes,Light PA
+0.86199999999999999,14.286,15.301,18,5,3,2,3,4,3,3,5,1,2,3,3,2,4,3,3,2,3,Female,Faculty of Social Sciences,psychology,1st year,Yes,Light PA
+5.4050000000000002,101.288,102.468,19,2,3,5,3,5,4,5,2,3,2,2,2,3,2,4,5,2,5,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+23.548999999999999,104.048,104.473,21,3,2,4,2,4,3,4,2,3,2,1,2,4,2,4,2,3,4,Female,Faculty of Social Sciences,Psychology BA,1st year,Yes,Light PA
+17.341999999999999,221.99100000000001,224.08600000000001,29,2,3,2,3,3,3,3,2,3,2,2,3,2,2,3,4,2,3,Female,Faculty of Science,Biology,2nd year,No,Light PA
+3.4849999999999999,58.043999999999997,58.981000000000002,21,4,2,4,2,4,2,3,2,3,1,3,2,3,2,4,3,3,3,Female,Faculty of Arts,Psychology and Linguistics,1st year,Yes,Light PA
+9.8819999999999997,59.320999999999998,59.988999999999997,18,2,3,4,3,4,1,3,2,3,1,2,1,1,2,4,3,2,4,Female,Faculty of Health Sciences,Health Sciences,1st year,Yes,Moderate PA
+11.561999999999999,131.214,132.27600000000001,23,2,4,4,3,3,4,2,4,2,3,1,4,1,4,4,2,2,2,Female,Faculty of Science,Biochemistry,4th year,No,Moderate PA
+138.001,278.64499999999998,279.65800000000002,18,4,1,4,1,4,1,4,1,4,1,4,1,4,1,4,1,1,4,Female,Faculty of Social Sciences,Major Criminology and Minor Psychology,2nd year,No,Vigorous PA
+9.2230000000000008,107.681,147.554,22,3,2,4,2,3,2,3,2,3,2,2,3,2,2,3,4,2,3,Female,Faculty of Science,Biochemistry,3rd year,No,Inactive
+4.2789999999999999,49.360999999999997,50.341000000000001,25,3,3,3,4,3,4,3,4,2,4,3,4,2,4,3,5,3,4,Male,Telfer School of Management,Bachelor of commerce (option in BTM),2nd year,No,Light PA
+18.606000000000002,89.572000000000003,90.340999999999994,23,1,4,1,4,1,1,1,1,1,4,1,4,1,1,1,1,4,1,Female,Faculty of Arts,Linguistques,1st year,Yes,Light PA
+3.5470000000000002,128.38200000000001,129.55600000000001,27,2,3,2,2,4,2,2,2,1,2,1,4,2,4,3,4,4,2,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Moderate PA
+42.381,282.30399999999997,283.30099999999999,26,4,2,3,2,2,2,2,2,3,4,1,3,4,2,3,5,3,4,Female,Faculty of Health Sciences,Food and Nutrition Science,2nd year,No,Inactive
+18.224,102.13200000000001,102.92,21,5,1,4,2,5,1,4,1,4,1,4,1,4,1,5,1,1,5,Female,Faculty of Social Sciences,Human Kinetics,1st year,Yes,Vigorous PA
+9.2319999999999993,77.146000000000001,77.757999999999996,18,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,5,1,5,Male,Faculty of Science,Biomed,2nd year,No,Vigorous PA
+342.23599999999999,410.09100000000001,410.81,18,5,1,5,1,5,5,5,1,5,1,5,1,5,1,5,5,1,5,Female,Faculty of Health Sciences,Human Kinetics,1st year,Yes,Vigorous PA
+13.37,218.88900000000001,221.62,22,4,1,5,1,5,1,3,2,4,1,3,1,5,1,5,3,1,5,Female,Faculty of Health Sciences,Food and Nutrition,1st year,Yes,Vigorous PA
+4.8099999999999996,174.887,176.309,28,2,3,4,2,4,2,3,2,2,2,2,3,1,2,4,4,2,4,Male,Faculty of Arts,Linguistics,1st year,Yes,Light PA
+13.942,70.504999999999995,71.510999999999996,22,2,3,3,3,4,3,3,2,2,1,1,1,2,2,2,4,2,3,Female,Telfer School of Management,International Management,2nd year,No,Light PA
+7.2370000000000001,67.221000000000004,67.828000000000003,19,3,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,4,4,Female,Telfer School of Management,human resources,2nd year,No,Moderate PA
+393.49599999999998,821.80200000000002,822.56500000000005,23,3,4,3,4,4,4,3,3,3,3,3,3,3,3,3,4,4,3,Female,Faculty of Social Sciences,psychology,1st year,Yes,Inactive
+8.5579999999999998,82.355000000000004,83.251999999999995,20,4,2,3,3,3,3,3,3,2,2,3,3,3,3,3,4,3,3,These options do not apply to me. I identify as (please specify):,Faculty of Social Sciences,Psychology BA (honours),1st year,Yes,Inactive
+6.1520000000000001,71.501000000000005,72.537000000000006,23,3,4,5,2,4,2,4,2,4,2,4,1,5,1,5,1,1,5,Female,Telfer School of Management,Commerce Finance,2nd year,No,Moderate PA
+24.518000000000001,100.735,102.277,19,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,1,5,1,Female,Telfer School of Management,management,3rd year,Yes,Inactive
+7.609,94.840999999999994,95.370999999999995,22,4,2,4,2,4,2,4,2,4,1,3,1,4,2,4,2,2,4,Female,Faculty of Health Sciences,Human Kinetics,1st year,Yes,Vigorous PA
+14.151999999999999,112.736,116.61499999999999,26,2,4,3,3,3,2,2,2,2,3,2,3,2,2,3,3,3,3,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Vigorous PA
+3.8959999999999999,119.352,120.79,23,4,3,3,4,3,2,3,2,3,2,1,2,3,2,3,3,3,3,Female,Faculty of Health Sciences,Human Kinetics,1st year,Yes,Moderate PA
+5.7060000000000004,66.016000000000005,67.001000000000005,18,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,3,2,4,Female,Faculty of Health Sciences,Interdisciplinary Health Sciences,1st year,Yes,Light PA
+9.4369999999999994,125.553,127.242,20,2,4,3,5,2,4,2,4,2,3,1,3,2,4,4,1,4,4,Male,Faculty of Arts,Communication,2nd year,No,Light PA
+4.431,147.61500000000001,148.696,26,5,1,3,1,5,1,4,1,4,1,3,1,4,1,3,3,2,3,Female,Faculty of Social Sciences,Criminology,1st year,Yes,Moderate PA
+0.55100000000000005,73.605999999999995,74.349000000000004,34,3,2,4,2,4,2,4,2,3,1,2,2,2,1,4,4,2,4,Female,Faculty of Social Sciences,Honours BSc in Psychology,1st year,Yes,Light PA
+8.1029999999999998,83.771000000000001,85.67,23,2,4,2,4,2,4,3,4,2,3,2,3,2,2,2,4,4,2,Female,Faculty of Social Sciences,Bachelor of Arts in Psychology,1st year,Yes,Light PA
+7.2729999999999997,94.212000000000003,95.168999999999997,19,3,1,4,2,4,2,4,2,3,1,3,2,3,2,4,3,2,4,Female,Faculty of Science,Biomedical Science,1st year,Yes,Vigorous PA
+13.734,79.908000000000001,85.260999999999996,21,4,2,4,1,5,1,4,1,3,1,4,1,4,1,4,1,1,4,Female,Faculty of Social Sciences,psychology,1st year,Yes,Vigorous PA
+30.303999999999998,237.15799999999999,239.249,33,4,2,3,2,4,1,5,5,3,2,3,2,3,2,3,4,2,4,Female,Faculty of Social Sciences,bsc psychology,1st year,Yes,Moderate PA
+22.195,86.159000000000006,86.96,20,3,3,3,3,3,3,3,3,3,1,3,2,3,3,3,3,3,3,Female,Faculty of Health Sciences,Health science,1st year,Yes,Light PA
+6.5910000000000002,63.253,64.405000000000001,25,3,2,4,2,5,2,4,2,4,2,4,3,3,4,4,4,2,4,Female,Faculty of Egineering,Mechanical Engineering,2nd year,No,Light PA
+8.8780000000000001,55.311,56.551000000000002,21,4,2,3,2,5,3,3,2,2,2,2,2,4,2,2,4,2,3,Female,Faculty of Health Sciences,health science,1st year,Yes,Moderate PA
+3.254,56.375,59.606000000000002,18,5,1,5,1,5,1,5,1,5,1,4,1,4,1,5,1,2,4,Female,Faculty of Science,biochemistry,3rd year,No,Vigorous PA
+96.620999999999995,501.83300000000003,502.90899999999999,19,3,3,4,2,4,2,4,2,3,2,3,3,3,2,4,3,2,4,Female,Faculty of Health Sciences,nursing,1st year,Yes,Moderate PA
+7.43,330.9,331.76499999999999,20,2,2,3,4,4,3,4,3,4,1,2,3,2,2,3,4,3,4,Female,Faculty of Science,Biomedical Science,2nd year,Yes,Inactive
+8.0790000000000006,45.122,46.1,33,3,3,3,3,4,3,2,3,3,2,3,3,3,3,3,3,3,3,Male,Telfer School of Management,Finance,2nd year,No,Light PA
+3.742,33.383000000000003,34.579000000000001,20,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Perfer not to disclose,Faculty of Health Sciences,interdisciplinary health sciences,1st year,Yes,Light PA
+24.042000000000002,73.566999999999993,74.070999999999998,22,2,2,4,2,4,2,4,2,3,2,4,2,5,2,4,2,2,4,Female,Faculty of Health Sciences,Health Sciences,1st year,Yes,Moderate PA
+6.7539999999999996,31.741,32.235999999999997,29,4,3,3,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+6.5309999999999997,62.225999999999999,63.1,19,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,3,1,5,Female,Faculty of Social Sciences,Joint Honours in Public Administration and Political Science,1st year,Yes,Vigorous PA
+13.193,109.17,113.014,21,3,3,3,3,3,3,3,3,3,1,2,2,2,2,3,2,2,3,Male,Telfer School of Management,finance,1st year,Yes,Light PA
+6.5960000000000001,99.379000000000005,100.125,20,2,3,4,2,4,2,4,2,3,2,2,2,3,2,4,3,2,4,Female,Faculty of Arts,English Literature,1st year,Yes,Light PA
+18.039000000000001,105.813,106.105,40,4,3,3,2,4,2,2,1,1,1,3,3,3,2,3,3,1,5,Female,Faculty of Health Sciences,dietetics,1st year,Yes,Light PA
+4.0350000000000001,72.367000000000004,73.927000000000007,21,4,2,5,2,4,2,4,2,4,2,4,2,4,2,4,2,2,4,Male,Telfer School of Management,Bcom majoring in marketing,2nd year,No,Moderate PA
+9.9809999999999999,55.46,56.344999999999999,18,2,4,2,4,2,4,2,4,2,4,2,4,2,4,2,2,4,2,Female,Faculty of Health Sciences,nursing,1st year,No,Light PA
+329.48500000000001,415.48399999999998,417.00099999999998,23,1,5,3,4,4,4,2,4,2,1,1,2,2,4,2,4,4,2,Female,Faculty of Social Sciences,BA psychology,1st year,Yes,Inactive
+8.6790000000000003,65.710999999999999,66.722999999999999,18,3,3,4,2,3,4,2,2,3,2,3,1,3,2,4,3,2,4,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Moderate PA
+3.7810000000000001,38.771999999999998,39.450000000000003,20,3,2,4,2,2,3,3,3,3,3,3,3,3,2,4,4,2,4,Female,Faculty of Health Sciences,Health Sciences,4th year,No,Light PA
+9.4410000000000007,80.647000000000006,81.320999999999998,27,2,4,2,4,3,4,2,4,2,4,2,4,2,3,2,5,2,4,Female,Faculty of Science,Biochemistry,2nd year,No,Light PA
+2.0750000000000002,11.5,15.331,18,3,2,2,2,2,2,3,2,3,1,3,1,3,3,3,2,2,2,Male,Telfer School of Management,Bcom management,3rd year,Yes,Inactive
+6.6829999999999998,86.981999999999999,88.094999999999999,18,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,4,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Light PA
+11.724,71.816999999999993,72.150999999999996,25,3,3,4,2,4,2,4,2,4,1,3,1,3,1,4,2,1,4,Male,Faculty of Health Sciences,Honours Bachelors of Health Sciences,1st year,Yes,Moderate PA
+4.1959999999999997,120.87,122.38200000000001,20,4,2,4,2,5,2,4,2,4,2,2,2,4,2,4,3,2,5,Female,Faculty of Health Sciences,Health Sciences,5th year,No,Moderate PA
+1.131,74.301000000000002,75.001000000000005,27,1,3,3,3,4,3,3,3,3,3,3,3,3,3,3,3,3,4,Female,Faculty of Social Sciences,joint honors in psychology and linguistics,1st year,Yes,Inactive
+5.3849999999999998,65.775000000000006,66.688000000000002,20,4,3,2,1,4,4,3,1,3,1,4,3,4,1,4,1,1,4,Female,Telfer School of Management,Bachelor of Commerce and Juris Doctor,2nd year,No,Light PA
+135.834,200.863,232.91200000000001,19,2,3,3,2,3,2,4,2,2,3,2,4,3,1,3,3,2,3,Female,Faculty of Arts,psychology and linguistics,1st year,Yes,Light PA
+9.0250000000000004,150.13200000000001,151.642,19,3,2,4,3,4,3,4,3,3,3,4,3,4,2,4,3,2,4,Female,Telfer School of Management,marketing,2nd year,No,Light PA
+57.36,236.62700000000001,237.59299999999999,24,2,3,3,3,3,2,3,3,3,2,3,3,3,2,3,3,2,3,Female,Telfer School of Management,Accounting,2nd year,No,Light PA
+11.898999999999999,76.319000000000003,77.555999999999997,19,4,2,4,2,4,2,3,2,4,3,4,3,2,2,4,4,3,4,Female,Faculty of Science,Biomedical science,1st year,Yes,Moderate PA
+211.86,367.68,370.76,21,4,1,4,2,4,2,3,2,3,2,3,2,3,2,3,4,2,3,Male,Telfer School of Management,Commerce,2nd year,No,Vigorous PA
+10.061,159.672,160.547,20,5,1,5,2,5,5,5,2,5,2,2,1,5,1,5,5,1,5,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Vigorous PA
+2.4740000000000002,101.154,105.117,37,4,4,2,4,3,4,2,4,2,4,4,4,2,4,4,4,2,2,Female,Faculty of Health Sciences,Honours Health Sciences,1st year,Yes,Light PA
+4.5590000000000002,89.703000000000003,91.182000000000002,19,4,1,5,1,4,1,5,1,5,1,1,1,5,1,5,5,1,5,Male,Telfer School of Management,Finance,2nd year,No,Vigorous PA
+12.090999999999999,137.27000000000001,138.30099999999999,21,3,3,4,2,4,2,3,2,3,3,4,2,4,2,4,2,2,4,Female,Faculty of Arts,Linguistics,1st year,Yes,Light PA
+75.102999999999994,147.327,152.63300000000001,19,2,4,2,4,2,4,1,4,1,4,2,4,2,4,2,2,4,4,Female,Faculty of Science,Biomedical Science,1st year,Yes,Inactive
+7.16,87.930999999999997,88.831999999999994,20,2,5,1,5,2,5,2,5,1,4,2,5,1,4,3,4,3,5,Female,Faculty of Social Sciences,Psychology BSc.,1st year,Yes,Light PA
+6.8310000000000004,93.411000000000001,94.992000000000004,18,2,3,4,3,4,3,4,3,4,2,3,3,4,3,4,3,3,3,Female,Faculty of Social Sciences,psychology,1st year,Yes,Light PA
+11.318,112.461,113.36,20,2,3,2,4,5,5,4,5,2,1,1,3,1,4,3,4,5,3,Male,Faculty of Social Sciences,Psychology B.Sc.,1st year,Yes,Inactive
+1.403,92.334999999999994,93.201999999999998,51,3,2,5,1,5,2,5,2,4,1,3,1,3,1,5,1,1,5,Female,Faculty of Science,Biomedical Science,1st year,Yes,Inactive
+30.771999999999998,131.87799999999999,136.11500000000001,23,5,2,5,2,5,2,5,2,4,2,3,2,4,2,4,3,2,4,Male,Faculty of Social Sciences,Psychology(BA),1st year,Yes,Vigorous PA
+6.968,81.031999999999996,82.078000000000003,19,4,2,3,2,3,2,4,2,3,1,1,2,4,2,3,2,2,4,Female,Faculty of Science,Biomedical Science,1st year,Yes,Moderate PA
+14.077,90.116,93.233000000000004,22,4,1,5,1,4,1,4,2,5,1,4,2,4,2,4,5,1,5,Female,Faculty of Arts,psychology,1st year,Yes,Moderate PA
+48.798000000000002,185.53299999999999,186.428,22,2,2,3,2,3,2,3,2,4,5,2,3,2,4,3,4,3,4,Female,Faculty of Social Sciences,service social,1st year,Yes,Light PA
+8.5690000000000008,73.751000000000005,75.013999999999996,21,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,1,5,1,Female,Faculty of Social Sciences,B.A Honours in Psychology,1st year,Yes,Inactive
+21.707999999999998,132.839,133.52500000000001,26,3,3,4,2,4,3,3,3,3,2,3,2,3,3,4,3,3,3,Male,Faculty of Social Sciences,Political Science,2nd year,No,Light PA
+13.148,78.129000000000005,78.984999999999999,19,4,2,4,3,4,2,4,2,4,1,4,2,4,2,4,3,2,4,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Vigorous PA
+106.04,293.86500000000001,294.82299999999998,19,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,1,5,Female,Faculty of Social Sciences,Criminology,1st year,Yes,Inactive
+21.260999999999999,249.434,249.99700000000001,20,2,4,3,4,3,4,2,4,2,2,2,4,2,4,2,4,4,3,Female,Faculty of Social Sciences,Honours Bsc psychology,1st year,Yes,Inactive
+11.471,109.045,109.748,32,2,4,2,4,4,4,2,4,2,2,2,4,2,4,2,2,4,3,Female,Faculty of Social Sciences,Biomedical Science,1st year,Yes,Light PA
+6.992,540.19600000000003,542.25199999999995,36,2,3,4,4,4,4,2,4,2,1,4,4,2,4,4,4,2,4,Female,Faculty of Science,Biomedical Science,2nd year,Yes,Light PA
+12.534000000000001,79.356999999999999,80.188999999999993,21,3,2,3,1,4,1,4,1,3,1,3,1,3,1,4,2,2,5,Female,Faculty of Science,Biopharmaceutical Science,1st year,Yes,Vigorous PA
+69.697000000000003,133.047,134.125,21,3,1,4,2,5,1,4,1,4,1,3,1,2,2,4,3,1,4,Male,Faculty of Egineering,Honours Bachelor of Science in Computer Science,3rd year,No,Light PA
+25.863,90.54,91.727000000000004,18,4,1,4,1,4,1,4,1,4,1,4,1,4,1,4,1,1,4,Female,Faculty of Arts,Communication,2nd year,No,Moderate PA
+39.012999999999998,103.22499999999999,104.583,19,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,4,1,5,Female,Faculty of Health Sciences,Bachelor of Human Kinetics,4th year,No,Vigorous PA
+5.6040000000000001,67.569000000000003,68.680999999999997,18,3,3,3,3,4,3,3,3,3,2,2,2,2,2,3,3,3,3,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Light PA
+64.820999999999998,137.66399999999999,141.09,29,4,2,4,1,5,1,4,1,3,1,3,4,4,1,4,3,3,4,Male,Faculty of Health Sciences,Biomedical science,2nd year,Yes,Vigorous PA
+13.035,100.93600000000001,101.827,19,4,2,4,2,4,2,4,2,3,1,4,2,4,2,4,3,2,4,Male,Telfer School of Management,Finance,2nd year,No,Moderate PA
+7.1369999999999996,1828.8510000000001,1829.4110000000001,28,5,1,5,1,5,5,5,1,5,1,5,5,5,1,5,5,5,5,Male,Telfer School of Management,marketing,2nd year,No,Vigorous PA
+19.581,113.77500000000001,114.52,22,2,2,3,2,3,2,3,2,3,3,2,2,2,2,3,4,2,4,Male,Faculty of Science,Biomedical,1st year,Yes,Inactive
+15.052,61.625999999999998,62.348999999999997,20,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,3,1,5,Male,Faculty of Egineering,Computer Science,3rd year,No,Vigorous PA
+25.370999999999999,96.629000000000005,98.600999999999999,20,2,4,2,4,3,4,2,4,2,3,2,4,2,4,3,3,4,2,Female,Faculty of Social Sciences,Political Science,2nd year,No,Inactive
+4.2549999999999999,64.210999999999999,64.884,30,4,2,4,1,4,1,4,1,4,1,2,1,4,1,4,1,1,4,Female,Faculty of Science,Biomedical Science,2nd year,No,Moderate PA
+3.94,87.233999999999995,88.323999999999998,25,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Arts,psychology and linguistics,2nd year,Yes,Moderate PA
+18.405999999999999,103.31,104.423,23,4,3,2,4,3,2,3,3,3,4,4,2,4,2,3,4,4,2,Female,Faculty of Social Sciences,psychology and linguistics,1st year,Yes,Light PA
+6.9509999999999996,59.639000000000003,61.484999999999999,19,3,2,4,2,3,2,4,2,4,2,3,2,4,3,4,2,2,4,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+0.67500000000000004,404.14499999999998,404.16800000000001,50,2,3,3,3,4,3,2,3,2,2,2,3,2,3,3,4,3,2,Male,Faculty of Social Sciences,Psychology,1st year,Yes,Inactive
+19.890999999999998,76.646000000000001,77.384,25,5,1,5,1,5,1,5,1,4,1,4,1,4,1,5,3,1,5,Male,Faculty of Science,Biomedical Science,1st year,No,Moderate PA
+18.321999999999999,105.256,106.848,18,4,2,3,2,4,2,4,2,2,2,4,2,4,2,4,5,2,4,Female,Faculty of Health Sciences,health sciences,3rd year,No,Moderate PA
+5.6669999999999998,49.466000000000001,52.218000000000004,22,2,4,3,4,2,3,3,4,3,4,3,3,3,4,3,4,3,3,Female,Faculty of Health Sciences,Honours in Health Science,1st year,Yes,Inactive
+0.50800000000000001,136.167,136.61000000000001,26,4,2,4,2,4,2,5,2,4,3,4,2,4,2,4,4,2,4,Female,Faculty of Science,Biomedical sicence,3rd year,No,Light PA
+5.22,58.460999999999999,59.05,20,2,2,4,2,4,2,2,2,4,2,2,3,4,2,4,5,2,5,Male,Faculty of Science,Biomed,1st year,Yes,Vigorous PA
+12.406000000000001,73.442999999999998,74.441999999999993,21,3,2,3,2,3,2,3,2,3,2,3,2,3,1,3,2,1,2,Female,Faculty of Science,Biomedical Science,1st year,Yes,Light PA
+2.0739999999999998,17.332999999999998,18.012,24,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Faculty of Health Sciences,BsCN,1st year,Yes,Inactive
+23.57,132.30199999999999,133.23500000000001,20,4,2,3,1,3,4,3,1,3,1,2,2,2,1,2,3,2,3,Male,Faculty of Social Sciences,economics,4th year,No,Light PA
+10.8,166.89099999999999,167.851,19,5,1,5,1,4,2,4,1,5,1,4,1,5,1,5,4,1,5,Male,Faculty of Health Sciences,Human Kinetics,3rd year,No,Moderate PA
+7.851,73.611999999999995,74.203000000000003,23,2,2,3,2,3,2,3,2,3,4,2,4,2,2,3,3,2,3,Male,Telfer School of Management,Management,2nd year,No,Moderate PA
+0.76,594.23,595.01300000000003,59,4,1,5,3,4,2,4,2,4,2,3,2,4,3,4,3,2,4,Male,Faculty of Science,Biomedical science,1st year,Yes,Vigorous PA
+17.7,90.075999999999993,91.100999999999999,21,4,2,4,2,4,2,3,3,4,2,2,3,4,2,4,4,2,5,Male,Telfer School of Management,accounting,2nd year,No,Vigorous PA
+0.501,255.57900000000001,256.53899999999999,67,3,2,4,2,3,2,3,2,4,3,3,2,3,2,4,3,2,3,Male,Faculty of Science,Biomedical science,1st year,No,Light PA
+9.6419999999999995,81.683000000000007,82.43,19,5,1,5,1,3,1,3,1,3,3,3,3,5,1,3,1,3,5,Male,Telfer School of Management,finance,1st year,Yes,Vigorous PA
+36.756,139.92400000000001,139.93799999999999,73,3,3,4,3,3,2,4,3,3,3,4,4,3,3,3,3,3,4,Male,Faculty of Science,Biomedical,1st year,Yes,Inactive
+16.931999999999999,100.982,102.321,20,4,2,4,2,4,2,4,2,4,2,3,2,4,2,4,4,2,4,Female,Faculty of Social Sciences,Psychology and Linguistics (joint honors),1st year,Yes,Moderate PA
+10.114000000000001,56.372,57.673000000000002,21,3,3,4,2,4,2,4,2,3,2,3,2,3,3,4,3,2,4,Female,Faculty of Health Sciences,Health Sciences,3rd year,No,Moderate PA
+6.4509999999999996,23.984000000000002,44.798000000000002,19,3,3,3,3,3,3,3,3,3,3,3,4,3,3,3,3,3,3,Male,Faculty of Health Sciences,Biomed,1st year,Yes,Light PA
+10.756,75.058999999999997,76.096999999999994,18,5,2,4,2,5,2,5,2,4,1,5,2,5,2,5,2,2,4,Female,Faculty of Health Sciences,Health science,3rd year,No,Light PA
+0.83799999999999997,57.329000000000001,57.883000000000003,34,4,4,4,2,4,2,4,2,2,2,2,1,4,1,4,1,4,4,Female,Faculty of Science,Biomedical Science,2nd year,No,Moderate PA
+7.0460000000000003,77.816999999999993,79.100999999999999,19,3,4,2,5,4,5,1,4,5,2,2,4,2,4,1,4,4,2,Female,Faculty of Social Sciences,Bachelor of Science Psychology,1st year,Yes,Light PA
+23.646999999999998,234.87299999999999,235.87799999999999,24,4,2,4,2,4,2,2,2,2,1,1,4,4,1,5,3,1,5,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+1.552,80.543000000000006,81.126000000000005,36,2,3,4,3,4,3,2,3,3,2,3,3,2,2,4,4,3,3,Female,Faculty of Science,Biomedical science,1st year,Yes,Light PA
+9.6609999999999996,80.370999999999995,80.930999999999997,34,5,2,4,1,4,1,4,1,4,2,3,1,4,1,4,3,1,4,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Vigorous PA
+11.329000000000001,150.221,161.148,27,2,3,2,4,4,2,3,4,4,2,3,3,3,3,4,3,3,2,Female,Telfer School of Management,finance,2nd year,Yes,Inactive
+15.348000000000001,116.023,117.398,18,4,2,4,2,4,2,4,2,3,2,3,2,4,2,4,3,2,5,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Moderate PA
+6.6210000000000004,63.125999999999998,64.878,18,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,1,5,Female,Faculty of Science,Biomedical Science,1st year,Yes,Moderate PA
+6.1420000000000003,68.103999999999999,70.629000000000005,18,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,1,5,Male,Telfer School of Management,Finance,2nd year,No,Moderate PA
+7.298,98.616,99.522000000000006,21,4,2,5,2,5,2,5,1,4,1,4,1,5,2,5,3,1,4,Female,Faculty of Arts,psychology and linguistics,1st year,Yes,Moderate PA
+6.3,72.251999999999995,73.040999999999997,19,2,2,4,2,3,2,2,2,2,2,2,2,3,2,4,4,2,5,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Inactive
+4.9459999999999997,81.08,82.679000000000002,27,4,2,3,2,4,2,3,2,4,2,3,3,3,3,4,2,3,3,Male,Faculty of Science,Financial Mathematics and Economics,5th year,No,Moderate PA
+33.715000000000003,156.97300000000001,166.8,20,3,4,3,3,4,2,2,2,3,2,3,2,4,3,4,3,4,2,Female,Faculty of Social Sciences,BSc Psychology,1st year,Yes,Inactive
+9.952,298.92399999999998,300.14299999999997,35,3,2,4,4,4,2,3,2,3,2,1,2,3,2,4,4,3,4,Female,Faculty of Science,bachelor of pharmaceutical,3rd year,No,Light PA
+11.731,115.532,117.041,22,4,2,4,2,4,2,4,2,4,1,3,1,4,1,4,2,2,4,Female,Faculty of Egineering,Software Engineering,5th year,No,Moderate PA
+0.74299999999999999,7.0419999999999998,7.7889999999999997,22,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Social Sciences,Criminology,2nd year,No,Light PA
+4.8010000000000002,79.819999999999993,82.456000000000003,19,4,2,4,2,4,2,3,2,4,1,2,2,4,2,4,3,2,4,Female,Faculty of Social Sciences,Social work,1st year,Yes,Vigorous PA
+12.172000000000001,86.953000000000003,88.759,18,4,2,4,2,5,2,4,2,4,2,4,1,4,2,4,1,2,1,Female,Faculty of Egineering,Computer Science,3rd year,No,Light PA
+30.12,208.26599999999999,208.667,23,1,4,2,4,1,4,2,4,1,2,1,4,2,4,3,2,3,4,Female,Faculty of Science,Joint honours in mathematics and economics,3rd year,No,Light PA
+21.963000000000001,119.71899999999999,120.887,19,3,2,3,2,4,2,3,2,3,2,3,2,3,2,4,4,2,4,Female,Faculty of Health Sciences,BScN,1st year,Yes,Light PA
+11.124000000000001,72.963999999999999,74.102000000000004,18,5,1,5,1,5,1,5,1,5,1,5,1,4,1,5,1,1,5,Female,Telfer School of Management,Commerce-Management,2nd year,No,Moderate PA
+11.574999999999999,111.111,112.005,20,5,2,4,2,5,1,4,1,3,1,4,2,4,2,3,2,1,4,Male,Faculty of Social Sciences,Psychology,1st year,Yes,Vigorous PA
+8.3130000000000006,81.641000000000005,82.301000000000002,19,4,1,5,1,4,1,4,1,4,1,5,1,4,1,5,2,1,5,Female,Telfer School of Management,Finances,2nd year,No,Vigorous PA
+3.7010000000000001,57.957000000000001,59.939,23,2,5,2,4,2,4,2,4,1,4,2,4,2,4,2,3,4,2,Female,Faculty of Health Sciences,Health Sciences,4th year,No,Inactive
+19.39,102.797,103.886,19,5,1,5,1,5,1,5,1,3,1,4,2,3,1,4,2,1,4,Male,Telfer School of Management,Business technology management,2nd year,No,Inactive
+0.79500000000000004,100.669,102.345,26,4,2,4,1,4,2,4,2,4,1,4,2,4,1,4,2,1,4,Male,Telfer School of Management,finance,2nd year,No,Moderate PA
+11.782,194.583,196.077,60,3,1,3,1,3,1,3,1,2,3,2,3,3,1,3,4,1,3,Female,Faculty of Science,Biomedical science,1st year,Yes,Inactive
+5.4169999999999998,65.242999999999995,65.900999999999996,20,4,2,3,2,4,2,4,2,4,4,3,4,2,4,4,4,3,4,Female,Telfer School of Management,"Bachelor of Commerce, option in Finance",2nd year,No,Moderate PA
+3.8109999999999999,186.547,189.26900000000001,41,3,2,4,2,5,2,4,2,3,1,4,1,4,1,4,2,1,5,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Light PA
+4.306,59.523000000000003,60.944000000000003,21,4,1,4,1,4,1,4,1,4,1,4,1,3,1,4,5,1,4,Male,Faculty of Science,biomed,1st year,Yes,Moderate PA
+11.391,118.849,119.78700000000001,23,2,2,3,3,4,3,2,3,4,2,2,3,2,2,2,4,4,4,Female,Faculty of Social Sciences,psychology,1st year,Yes,Light PA
+78.082999999999998,166.715,167.63300000000001,18,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,4,2,4,Female,Telfer School of Management,Management,2nd year,No,Moderate PA
+74.619,270.173,280.32400000000001,20,4,3,3,2,2,2,2,2,3,2,3,2,3,2,3,4,2,4,Female,Faculty of Health Sciences,Health Science,1st year,Yes,Light PA
+7.1130000000000004,78.924000000000007,79.801000000000002,24,4,2,4,2,4,2,4,2,4,2,3,2,4,2,4,2,2,4,Female,Faculty of Health Sciences,nursing,1st year,Yes,Moderate PA
+10.855,160.739,162.81299999999999,24,4,5,1,5,5,1,5,1,5,1,5,2,5,1,5,5,1,5,Male,Faculty of Social Sciences,psychology / philosophy,1st year,Yes,Moderate PA
+8.0399999999999991,30.59,31.451000000000001,18,5,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,Female,Faculty of Social Sciences,economics,1st year,Yes,Inactive
+3.669,65.105000000000004,65.921000000000006,19,3,1,4,1,3,1,3,1,3,1,2,2,3,1,3,2,1,4,Female,Faculty of Social Sciences,CRM and PSY,2nd year,No,Light PA
+12.744,63.597999999999999,66.691000000000003,18,5,2,5,1,5,1,5,2,5,1,4,1,3,1,5,5,1,5,Female,Telfer School of Management,bachelor or commerce in Human resource management,2nd year,No,Moderate PA
+588.53599999999994,784.40200000000004,785.45299999999997,19,4,2,4,2,2,1,3,1,4,2,3,2,3,3,3,2,2,3,Male,Telfer School of Management,Finance,2nd year,No,Moderate PA
+43.029000000000003,172.24700000000001,173.75899999999999,21,3,5,1,1,1,5,1,4,2,5,1,4,2,2,2,2,4,4,Female,Faculty of Arts,Communications,1st year,Yes,Light PA
+394.50299999999999,1025.7550000000001,1029.5530000000001,20,3,4,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Male,Faculty of Science,Biomed,1st year,Yes,Inactive
+12.423,78.608000000000004,79.326999999999998,20,2,3,3,3,3,2,3,2,3,2,3,1,3,2,3,3,2,3,Female,Faculty of Social Sciences,psychology,1st year,Yes,Light PA
+8.2509999999999994,69.661000000000001,71.364000000000004,20,4,1,4,1,4,1,4,1,3,1,3,1,4,1,4,1,1,4,Female,Faculty of Science,Biomedical Science,2nd year,No,Vigorous PA
+5.1029999999999998,38.667000000000002,39.244999999999997,20,5,5,5,5,5,5,5,4,4,4,4,4,5,5,5,5,3,5,Female,Faculty of Egineering,Software Engineering,5th year,No,Inactive
+261.452,316.63299999999998,317.71800000000002,23,5,1,3,3,4,2,4,2,3,2,3,3,3,3,3,3,4,2,Female,Faculty of Social Sciences,Political Sciences,1st year,Yes,Moderate PA
+12.364000000000001,83.48,84.037999999999997,22,2,4,2,4,3,4,2,2,2,4,2,4,2,2,3,4,4,4,Male,Faculty of Science,Biomedical Sciences,1st year,Yes,Inactive
+8.952,1340.336,1341.374,56,3,4,3,4,2,3,2,4,4,3,3,3,3,2,3,4,3,3,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Inactive
+9.2170000000000005,67.430999999999997,68.518000000000001,19,4,3,4,2,4,2,4,2,4,2,3,2,4,2,4,4,2,4,Female,Faculty of Arts,Psychology and Linguistics,1st year,Yes,Moderate PA
+39.301000000000002,341.04599999999999,349.14299999999997,38,3,1,3,1,3,1,3,1,3,1,1,1,3,1,3,2,2,3,Female,Faculty of Science,Biomedical science,1st year,Yes,Light PA
+4.8159999999999998,82.822999999999993,83.445999999999998,22,4,2,4,2,5,2,4,2,3,1,1,1,2,2,4,2,2,4,Male,Faculty of Egineering,Software Engineering,3rd year,No,Moderate PA
+5.3819999999999997,92.082999999999998,93.858999999999995,21,1,3,3,2,4,2,2,2,3,2,2,4,3,2,4,4,3,4,Male,Faculty of Egineering,Bsc in Computer Engineering,4th year,No,Inactive
+0.33200000000000002,9.1080000000000005,9.8140000000000001,32,2,3,2,4,2,3,2,3,3,1,2,2,3,4,4,3,3,3,Male,Faculty of Egineering,Civil Engineering,4th year,No,Light PA
+6.5810000000000004,133.71899999999999,134.959,19,2,2,4,2,4,2,3,2,3,2,3,2,3,2,4,3,2,4,Male,Faculty of Egineering,Software Engineering,3rd year,No,Light PA
+166.05099999999999,270.24900000000002,271.48099999999999,22,3,2,4,3,4,2,3,3,3,1,2,2,3,2,3,2,2,3,Female,Faculty of Health Sciences,B. Sc. Inf.,1st year,Yes,Inactive
+47.073999999999998,169.887,170.833,28,2,2,4,4,5,2,4,2,3,1,2,1,3,2,4,2,2,4,Female,Faculty of Science,Biochemistry,2nd year,No,Moderate PA
+7.7590000000000003,68.516999999999996,69.671000000000006,20,4,2,5,2,4,2,4,2,4,2,4,1,4,1,5,2,1,1,Female,Faculty of Health Sciences,human kinetics,4th year,No,Vigorous PA
+30.148,369.30799999999999,370.50099999999998,21,2,4,2,3,2,4,2,2,2,4,2,4,2,2,2,4,2,2,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Inactive
+55.003,146.00700000000001,146.93600000000001,25,3,3,3,3,4,2,3,3,2,4,3,1,2,3,4,3,3,4,Female,Faculty of Science,Biomedical Sciences,1st year,Yes,Light PA
+61.972999999999999,162.386,163.55799999999999,20,5,2,4,3,3,3,3,3,2,2,3,3,4,3,4,5,3,4,Female,Telfer School of Management,International Management,2nd year,No,Moderate PA
+5.6289999999999996,34.901000000000003,35.542000000000002,23,3,4,3,3,3,3,3,3,2,3,3,3,3,3,3,5,3,3,Female,Faculty of Social Sciences,poli sci,2nd year,No,Light PA
+37.561999999999998,168.273,169.078,18,1,1,1,1,1,4,3,4,1,5,1,4,1,4,1,4,4,1,Male,Faculty of Science,Biomedical science,1st year,Yes,Inactive
+151.05600000000001,447.928,448.87799999999999,43,3,2,2,2,4,2,2,2,2,2,1,4,2,2,3,4,2,4,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+12.198,60.52,60.987000000000002,21,3,3,4,2,4,2,4,2,4,2,3,2,3,2,4,3,3,4,Female,Faculty of Science,Biomedical Science,1st year,Yes,Moderate PA
+11.071,58.451000000000001,59.365000000000002,20,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,4,1,5,Female,Faculty of Science,biomedical sciences,1st year,Yes,Vigorous PA
+37.369999999999997,138.37899999999999,139.298,24,2,2,4,2,5,2,4,2,4,1,3,2,4,1,4,2,2,4,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Light PA
+11.135,97.965999999999994,99.031999999999996,19,4,2,4,2,4,2,4,2,3,2,3,2,3,2,4,3,2,4,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Moderate PA
+4.0810000000000004,47.893000000000001,48.673999999999999,21,4,3,4,3,4,3,4,3,3,2,2,2,3,2,4,3,2,4,Female,Faculty of Arts,English,3rd year,No,Light PA
+28.262,143.15,144.30699999999999,19,2,2,3,2,3,2,3,2,4,1,3,1,3,1,3,2,1,4,Female,Faculty of Social Sciences,sociology and communications,2nd year,No,Light PA
+22.331,102.554,103.8,22,2,4,3,3,4,2,2,4,2,4,2,4,2,4,2,2,4,2,Female,Faculty of Science,Biomedical sciences,2nd year,No,Light PA
+0.40500000000000003,1899.38,1899.693,38,3,2,2,3,3,2,3,3,4,3,3,2,3,2,4,3,2,3,Male,Faculty of Science,Biomedical Science,1st year,Yes,Light PA
+10.029999999999999,95.962999999999994,96.668999999999997,24,3,3,3,4,2,4,2,4,1,4,1,5,2,4,2,5,4,2,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Inactive
+9.7720000000000002,92.037999999999997,93.798000000000002,23,4,2,4,2,4,2,4,1,5,1,4,2,5,1,4,2,2,4,Female,Faculty of Science,Biomedical science,1st year,Yes,Moderate PA
+15.728,111.92700000000001,112.877,23,2,3,2,3,2,3,2,3,2,2,2,4,3,4,2,4,4,2,Female,Faculty of Social Sciences,psychology,1st year,No,Inactive
+18.800999999999998,159.25299999999999,163.363,21,3,4,2,4,4,4,2,4,1,1,1,4,1,2,4,4,3,3,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+13.948,126.517,128.69,25,2,3,2,2,3,2,3,2,3,2,3,3,3,3,2,3,3,2,Female,Faculty of Arts,Interdisciplinary Studies,2nd year,No,Inactive
+7.0609999999999999,193.43899999999999,197.72499999999999,26,2,4,2,4,3,4,2,4,2,4,1,4,3,2,2,4,3,4,Female,Faculty of Arts,Major in Visual Arts,2nd year,No,Light PA
+16.396000000000001,123.893,124.94799999999999,20,4,1,3,1,4,1,3,1,3,1,3,1,3,1,4,4,1,4,Male,Telfer School of Management,Commerce,2nd year,No,Light PA
+9.9819999999999993,83.813000000000002,85.087000000000003,18,2,3,2,3,2,4,3,4,3,4,2,4,2,4,2,3,3,3,Female,Faculty of Arts,Psychology and linguistic,1st year,Yes,Light PA
+7.9630000000000001,60.832999999999998,62.101999999999997,19,4,1,4,1,4,1,3,1,4,1,3,1,3,1,4,3,1,4,Male,Telfer School of Management,management,1st year,Yes,Vigorous PA
+0.68100000000000005,10.079000000000001,10.377000000000001,24,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Faculty of Egineering,computer science,3rd year,No,Moderate PA
+10.973000000000001,148.24700000000001,149.018,24,4,2,4,2,3,2,4,2,3,2,3,2,3,2,4,2,2,3,Female,Faculty of Egineering,Computer Engineering,4th year,No,Light PA
+456.88900000000001,947.84,948.37599999999998,19,4,2,5,2,5,2,5,2,4,1,4,1,4,2,5,4,2,4,Male,Faculty of Health Sciences,Health Sciences (BHSc),1st year,Yes,Moderate PA
+10.987,56.015999999999998,57.494,19,3,4,3,4,3,3,3,3,3,3,3,3,3,2,3,3,3,3,Female,Faculty of Social Sciences,psychology,1st year,Yes,Inactive
+19.152000000000001,120.122,120.6,18,4,2,3,3,4,3,3,2,2,2,2,2,3,2,4,4,3,3,Male,Telfer School of Management,Accounting,2nd year,No,Light PA
+9.452,57.969000000000001,58.79,18,2,4,2,4,2,4,1,3,2,4,1,5,3,4,2,4,4,2,Female,Telfer School of Management,marketing,2nd year,Yes,Inactive
+3.9020000000000001,92.346000000000004,94.251999999999995,18,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,3,2,4,Female,Faculty of Health Sciences,Bachelor of Science in Nursing,1st year,Yes,Moderate PA
+28.716000000000001,89.009,89.94,18,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,2,1,5,Male,Faculty of Arts,Psychology,1st year,Yes,Vigorous PA
+11.249000000000001,65.326999999999998,66.165000000000006,18,4,2,4,2,4,2,3,2,3,2,3,2,4,2,4,3,2,4,Female,Telfer School of Management,Finance,2nd year,No,Moderate PA
+8.76,70.674999999999997,71.498000000000005,18,2,4,2,4,3,4,2,4,2,3,2,3,2,4,2,2,4,2,Female,Faculty of Science,Biomed,1st year,Yes,Light PA
+1.964,74.200999999999993,75.069000000000003,26,4,3,2,1,4,2,3,2,4,1,1,2,4,2,4,5,2,4,Female,Faculty of Social Sciences,Honours BA in Psychology,1st year,Yes,Moderate PA
+5.6769999999999996,69.201999999999998,71.23,27,2,4,1,4,1,4,1,4,1,4,1,5,1,5,1,5,5,1,Female,Faculty of Health Sciences,Health Sciences,1st year,Yes,Inactive
+152.01499999999999,205.374,206.46799999999999,22,5,1,5,1,5,1,5,1,5,1,3,1,4,1,5,3,1,5,Female,Telfer School of Management,Management,2nd year,No,Moderate PA
+12.032,110.33,110.93899999999999,22,1,4,3,4,4,4,2,4,2,1,1,3,1,4,2,5,4,2,Female,Faculty of Health Sciences,Honours Bachelor of Science in Nursing (BScN),1st year,Yes,Light PA
+3.96,57.518000000000001,61.881999999999998,21,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,1,5,Male,Faculty of Egineering,Computer Science,1st year,Yes,Vigorous PA
+8.343,68.263000000000005,68.950999999999993,18,2,4,2,4,2,4,2,4,2,1,2,1,2,3,3,4,4,4,Female,Telfer School of Management,finance,2nd year,No,Light PA
+14.329000000000001,108.14700000000001,110.355,20,1,3,4,3,4,3,4,3,4,2,2,2,2,2,4,1,2,4,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Moderate PA
+23.638000000000002,116.622,116.93,30,2,4,2,4,2,4,2,4,2,4,1,4,1,4,2,3,4,3,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Inactive
+1.845,99.186000000000007,100.04300000000001,31,1,4,1,4,1,4,1,4,1,4,2,4,1,4,1,1,4,2,Female,Telfer School of Management,Finance,2nd year,No,Inactive
+4.0179999999999998,70.433000000000007,71.055999999999997,24,3,1,5,2,3,2,4,2,4,3,3,2,3,2,4,3,2,4,Male,Telfer School of Management,Finance,2nd year,No,Light PA
+168.88200000000001,208.76599999999999,209.499,18,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,1,5,Male,Telfer School of Management,Accounting,2nd year,No,Vigorous PA
+16.727,122.22499999999999,123.56699999999999,19,4,1,4,1,5,1,4,1,3,1,3,1,4,1,4,1,1,4,Male,Telfer School of Management,Finance Commerce,1st year,Yes,Vigorous PA
+19.085999999999999,43.036000000000001,47.11,22,3,2,5,1,5,2,5,2,5,2,5,2,4,2,4,1,4,5,Male,Telfer School of Management,Marketing,2nd year,No,Vigorous PA
+12.351000000000001,77.855000000000004,79.012,20,5,1,5,1,5,1,5,1,4,1,5,1,5,1,5,3,1,5,Male,Telfer School of Management,BCom - Marketing,1st year,Yes,Vigorous PA
+6.3289999999999997,133.55199999999999,134.405,37,3,2,4,2,4,2,5,2,4,2,3,2,4,2,4,5,4,4,Female,Faculty of Science,Biomedical Sciences,2nd year,No,Moderate PA
+1.766,13.176,13.629,19,3,3,2,3,3,4,3,3,3,2,3,3,2,3,3,3,4,3,Male,Faculty of Social Sciences,Psychology,1st year,Yes,Vigorous PA
+17.385000000000002,92.236000000000004,93.331999999999994,20,4,1,4,1,4,1,4,1,4,1,4,1,3,1,4,3,1,4,Female,Faculty of Health Sciences,Bachelor of Nursing,1st year,Yes,Moderate PA
+7.6749999999999998,105.166,106.11199999999999,20,2,4,1,4,1,4,1,4,1,4,1,4,2,4,2,5,4,4,Female,Faculty of Science,Biomedical science,1st year,Yes,Inactive
+293.18200000000002,357.113,358.11900000000003,19,2,4,2,4,2,4,2,4,2,4,2,4,2,4,2,2,4,3,Female,Faculty of Arts,Joint Honours BA in Psychology and Linguistics,1st year,Yes,Light PA
+23.794,218.28299999999999,225.40899999999999,32,3,2,4,2,3,2,3,2,3,2,2,2,3,2,4,4,1,4,Female,Telfer School of Management,Bachelor of Commerce and Juris Doctor,2nd year,No,Light PA
+5.5720000000000001,51.936,52.738,19,4,1,4,1,4,1,4,1,4,1,4,1,4,1,4,2,1,4,Female,Faculty of Health Sciences,BScN,1st year,Yes,Moderate PA
+36.411999999999999,125.49299999999999,126.47499999999999,22,4,2,3,2,3,2,4,2,3,2,4,2,4,2,4,3,1,4,Female,Faculty of Social Sciences,BA Psychology,1st year,Yes,Vigorous PA
+222.98400000000001,492.02499999999998,493.28500000000003,20,4,3,3,2,4,2,2,2,3,3,2,2,2,2,3,3,2,3,Female,Faculty of Social Sciences,bsc psychology,1st year,Yes,Moderate PA
+6.5919999999999996,108.619,110,19,4,4,3,2,4,2,4,2,4,2,2,2,2,2,4,4,2,4,Female,Faculty of Social Sciences,Honours Bachelor of Human Kinetics,1st year,Yes,Moderate PA
+26.295000000000002,290.72800000000001,291.90100000000001,26,2,4,2,4,4,2,2,3,2,2,1,3,2,4,3,4,2,4,Female,Faculty of Health Sciences,Interdisciplinary Health Sciences,5th year,No,Inactive
+3.5619999999999998,64.593000000000004,95.350999999999999,20,2,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,4,2,Female,Faculty of Science,Biomedical Science,2nd year,No,Light PA
+151.12899999999999,197.947,198.90600000000001,20,4,2,4,2,4,1,4,2,2,2,2,2,2,2,3,4,2,4,Male,Faculty of Egineering,Computer Science,3rd year,No,Vigorous PA
+12.321,344.66800000000001,345.67500000000001,22,2,4,5,5,5,5,3,5,2,2,1,4,2,4,5,5,1,4,Female,Faculty of Science,Biomedical Science,1st year,Yes,Light PA
+0.81899999999999995,105.804,106.593,43,4,3,3,2,2,2,2,1,3,2,1,3,4,1,4,2,1,3,Female,Faculty of Science,Nursing,1st year,Yes,Inactive
+3.5790000000000002,57.646999999999998,58.927,20,4,2,5,1,5,1,5,1,5,5,4,1,4,1,4,4,1,4,Male,Faculty of Social Sciences,Human Kinetics,2nd year,No,Moderate PA
+449.60300000000001,1012.8,1013.663,20,4,1,4,1,5,1,5,1,4,1,4,1,4,1,4,4,1,5,Female,Faculty of Science,Biomedical Science,1st year,Yes,Moderate PA
+1.1000000000000001,714.58199999999999,716.06700000000001,24,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,5,1,5,Female,Faculty of Science,Biomedical sciences,1st year,Yes,Vigorous PA
+10.654999999999999,77.194999999999993,77.722999999999999,19,4,2,4,2,4,2,5,2,4,1,4,2,4,2,4,4,2,4,Male,Faculty of Health Sciences,Health Sciences,1st year,Yes,Moderate PA
+5.29,71.215000000000003,71.787999999999997,21,4,1,4,1,5,1,4,1,3,1,4,1,4,1,5,1,1,4,Male,Faculty of Science,Computer Science,4th year,No,Moderate PA
+0.996,14.25,28.431000000000001,18,1,3,2,2,4,4,3,4,3,1,4,3,4,3,5,2,3,4,Male,Telfer School of Management,jd/bcom,2nd year,No,Light PA
+7.35,78.497,80.430000000000007,20,3,3,2,4,3,4,2,4,2,4,2,4,2,4,2,4,4,3,Female,Faculty of Health Sciences,Honours Bachelor of Health Science,1st year,Yes,Inactive
+7.008,98.480999999999995,99.207999999999998,23,3,1,5,1,5,1,4,1,3,1,3,1,4,2,4,3,2,5,Female,Faculty of Health Sciences,bachelors of health sciences,1st year,Yes,Vigorous PA
+4.1150000000000002,42.500999999999998,43.087000000000003,19,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,1,5,Male,Telfer School of Management,BTM,2nd year,No,Moderate PA
+8.3859999999999992,108.702,109.611,24,4,2,3,2,4,2,3,2,3,3,2,3,3,2,3,4,3,4,Female,Faculty of Arts,communications,1st year,Yes,Light PA
+8.7799999999999994,85.531000000000006,86.51,18,4,2,4,2,4,2,4,2,3,2,3,2,4,2,4,4,2,4,Male,Faculty of Egineering,Computer Science,3rd year,No,Vigorous PA
+4.7060000000000004,47.356999999999999,48.161000000000001,18,4,2,4,2,4,2,4,2,4,2,3,2,3,2,4,2,2,4,Male,Faculty of Health Sciences,HSS,1st year,Yes,Moderate PA
+19.581,120.318,122.259,20,4,2,4,2,4,2,4,2,4,2,3,2,3,2,4,2,2,4,Male,Telfer School of Management,accounting,2nd year,No,Moderate PA
+4.72,90.433999999999997,91.692999999999998,20,3,4,3,4,3,4,3,4,2,3,2,4,3,4,3,4,3,2,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Light PA
+8.99,86.929000000000002,88.096000000000004,20,4,2,4,2,5,2,4,2,4,2,3,2,3,1,4,1,3,4,Male,Telfer School of Management,Finance,2nd year,No,Vigorous PA
+6.5970000000000004,24.547999999999998,25.137,20,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Telfer School of Management,accounting,2nd year,No,Inactive
+14.528,85.078000000000003,86.671000000000006,19,3,2,4,2,3,2,3,2,2,2,2,2,2,2,3,3,2,2,Male,Faculty of Egineering,civil engineering,2nd year,No,Moderate PA
+19.561,142.62200000000001,143.38,22,4,1,4,1,5,2,4,3,2,1,3,1,4,1,5,3,1,5,Male,Faculty of Science,Biomed,2nd year,No,Vigorous PA
+7.2160000000000002,111.33799999999999,112.34699999999999,19,5,1,5,1,5,1,4,1,2,2,3,1,4,1,5,2,1,1,Male,Faculty of Social Sciences,Psychology,1st year,Yes,Vigorous PA
+21.294,99.884,103.759,21,4,2,4,2,4,2,3,2,4,2,3,1,3,2,4,2,1,5,Male,Telfer School of Management,Bachelor of Commerce specialized in Accounting,2nd year,No,Moderate PA
+6.1929999999999996,286.55900000000003,309.75799999999998,24,3,4,2,4,3,4,2,4,2,4,2,4,2,4,3,4,4,3,Female,Faculty of Egineering,Computer Engineering,3rd year,No,Moderate PA
+13.494999999999999,130.87899999999999,132.43199999999999,22,2,4,2,4,2,2,2,4,2,4,2,4,2,4,2,5,4,2,Male,Faculty of Health Sciences,Health Sciences,1st year,Yes,Inactive
+5.992,74.768000000000001,75.647000000000006,20,4,3,4,3,4,2,4,2,3,1,3,2,4,2,4,2,2,4,Female,Faculty of Science,Biomedical sciences,1st year,Yes,Moderate PA
+21.379000000000001,94.207999999999998,95.138000000000005,18,4,1,4,1,4,1,4,1,4,1,4,1,4,1,4,4,1,4,Male,Telfer School of Management,finance,2nd year,No,Vigorous PA
+1.0469999999999999,89.466999999999999,90.269000000000005,40,3,2,4,2,4,2,4,2,3,2,3,2,3,2,4,4,2,4,Female,Faculty of Social Sciences,Criminology,1st year,Yes,Moderate PA
+1.8939999999999999,46.475000000000001,46.883000000000003,28,4,1,4,1,4,1,4,1,4,1,4,1,4,1,4,3,1,1,These options do not apply to me. I identify as (please specify):,Faculty of Social Sciences,Communications and Sociology,1st year,Yes,Vigorous PA
+12.037000000000001,107.80200000000001,109.11499999999999,20,3,4,4,4,4,3,4,4,4,2,3,2,2,3,4,5,2,4,Female,Faculty of Science,Biomedical Science,1st year,No,Light PA
+10.029,66.748000000000005,67.626999999999995,19,2,3,2,2,2,3,1,2,1,4,2,4,2,4,5,2,3,2,Female,Faculty of Science,Biomedical Science,1st year,Yes,Inactive
+3.2970000000000002,63.447000000000003,64.082999999999998,25,3,3,2,4,4,4,3,4,3,3,3,3,3,4,3,5,3,4,Male,Faculty of Health Sciences,Health Sciences,1st year,Yes,Light PA
+18.766999999999999,143.559,144.755,23,3,2,4,3,4,2,3,2,3,2,4,2,3,2,5,3,1,4,Female,Faculty of Social Sciences,public administration and political science,1st year,Yes,Light PA
+16.312000000000001,138.20500000000001,166.62200000000001,45,3,2,4,2,4,2,4,2,3,2,3,2,4,2,4,3,2,4,Female,Faculty of Health Sciences,Health science,1st year,Yes,Moderate PA
+1.355,83.515000000000001,84.361999999999995,31,4,2,4,3,3,3,4,3,4,3,4,2,3,3,4,3,3,4,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Moderate PA
+37.978000000000002,468.351,470.899,25,2,5,1,4,2,4,2,4,1,3,1,4,2,3,2,4,4,2,Female,Telfer School of Management,Finance,1st year,Yes,Light PA
+18.536999999999999,120.925,122.872,18,4,2,4,2,4,2,4,3,5,2,3,2,3,2,4,2,2,4,Male,Telfer School of Management,Marketing,2nd year,No,Moderate PA
+4.9089999999999998,85.578999999999994,86.564999999999998,21,2,4,2,3,2,3,2,4,2,2,3,4,2,2,2,4,4,3,Female,Faculty of Health Sciences,Health Science,1st year,Yes,Light PA
+3.024,125.895,127.196,34,5,2,4,2,4,3,4,2,1,3,3,1,5,1,4,2,1,4,Male,Faculty of Health Sciences,Nursing,1st year,Yes,Moderate PA
+6.298,71.819999999999993,72.602999999999994,24,4,2,5,2,4,4,4,2,3,2,3,3,3,2,4,4,2,4,Male,Telfer School of Management,finance,2nd year,Yes,Vigorous PA
+8.5679999999999996,70.331000000000003,71.081999999999994,32,2,4,3,4,3,4,2,4,2,3,2,4,2,4,2,3,4,3,Female,Faculty of Social Sciences,BSC psychology,1st year,Yes,Light PA
+16.097000000000001,67.528999999999996,69.248999999999995,27,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,3,2,4,Female,Faculty of Arts,Psychology,1st year,Yes,Vigorous PA
+7.9269999999999996,127.43300000000001,128.59200000000001,20,3,3,3,3,4,3,4,3,3,2,3,2,3,3,3,4,3,3,Female,Telfer School of Management,Business Technology Management,3rd year,No,Inactive
+56.95,119.941,121.01600000000001,20,5,1,5,1,5,1,5,1,4,1,5,1,5,1,5,1,1,5,Female,Faculty of Arts,Psychology,1st year,Yes,Vigorous PA
+4.3220000000000001,115.73699999999999,116.777,18,5,2,4,2,4,2,4,2,4,2,3,1,5,2,4,1,2,4,Male,Faculty of Health Sciences,Nursing,1st year,Yes,Vigorous PA
+17.667999999999999,118.148,120.371,28,3,3,4,3,3,3,3,3,3,2,3,3,2,2,4,3,2,4,Female,Faculty of Science,Biomedical science,1st year,Yes,Moderate PA
+193.416,259.50799999999998,260.44600000000003,21,4,3,4,3,4,2,3,2,3,2,2,3,3,3,3,3,3,3,Female,Faculty of Health Sciences,Health Sci,1st year,Yes,Moderate PA
+8.577,103.505,105.363,19,4,2,3,3,3,3,3,3,3,2,2,2,3,3,3,3,3,3,Female,Faculty of Health Sciences,health science,2nd year,No,Light PA
+11.178000000000001,64.438999999999993,69.400000000000006,19,3,4,2,4,3,3,3,2,2,2,3,3,2,2,3,3,2,4,Female,Faculty of Social Sciences,Criminology,1st year,Yes,Inactive
+43.667999999999999,132.94499999999999,134.101,24,1,5,1,5,1,5,1,5,1,5,1,5,4,5,1,4,5,4,Female,Telfer School of Management,sciences commerciales spécialisées en comptabilité,2nd year,No,Inactive
+7.0549999999999997,21.43,22.385999999999999,28,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4,Female,Telfer School of Management,Finance,2nd year,No,Light PA
+17.475000000000001,91.739000000000004,96.744,20,3,2,3,2,3,3,3,3,3,2,2,2,3,2,3,2,2,5,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+11.818,58.792000000000002,60.101999999999997,20,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,3,2,4,Male,Faculty of Egineering,"BASc Computer Engineering, Engineering Management and Entrepreneurship Option",5th year,No,Moderate PA
+17.471,116.012,117.51300000000001,25,2,2,4,2,3,2,3,2,3,3,2,2,2,2,4,4,2,4,Male,Telfer School of Management,Accounting,2nd year,No,Light PA
+11.48,77.295000000000002,78.762,20,1,4,1,4,1,4,1,4,1,4,1,4,1,4,1,5,1,1,Female,Telfer School of Management,finance,2nd year,No,Inactive
+24.622,67.959000000000003,68.834000000000003,18,4,2,4,2,4,2,4,2,3,2,3,2,3,2,4,4,2,4,Female,Telfer School of Management,Accounting,1st year,Yes,Vigorous PA
+2.48,14.394,15.702,21,3,3,3,3,3,3,2,2,2,2,2,2,2,2,2,3,2,3,Female,Faculty of Science,biomed,2nd year,No,Moderate PA
+5.6929999999999996,110.547,111.74,27,2,4,2,4,4,4,2,4,2,2,3,2,2,4,2,2,4,2,Male,Faculty of Social Sciences,Psychology BA,1st year,Yes,Moderate PA
+13.339,79.230999999999995,80.968000000000004,20,2,4,2,4,2,4,2,4,2,4,2,4,2,4,2,2,4,2,Female,Telfer School of Management,Commerce/Accounting,2nd year,No,Light PA
+8.2520000000000007,106.574,107.938,22,2,3,3,2,3,2,2,2,2,2,3,4,3,2,3,4,3,4,Female,Faculty of Health Sciences,Health Sciences,3rd year,No,Light PA
+6.6749999999999998,65.587000000000003,66.546000000000006,20,1,4,3,4,2,4,2,4,1,3,2,4,1,3,2,4,4,1,Female,Telfer School of Management,Commerce,1st year,Yes,Inactive
+9.5860000000000003,54.936,55.624000000000002,21,4,2,5,2,5,2,4,2,5,2,5,1,5,1,5,5,1,5,Female,Faculty of Social Sciences,Psychology and Linguistics,1st year,Yes,Moderate PA
+47.978000000000002,156.79300000000001,157.43600000000001,18,4,2,4,2,4,2,4,2,4,2,3,2,4,2,4,4,2,4,Female,Telfer School of Management,Accounting,1st year,Yes,Moderate PA
+1.2989999999999999,121.872,122.77200000000001,31,3,2,4,2,4,2,3,2,3,2,3,2,3,2,3,3,2,4,Female,Faculty of Health Sciences,Honours Health Science,1st year,Yes,Moderate PA
+22.541,144.953,148.11000000000001,20,4,1,4,1,4,1,4,1,3,2,3,2,4,1,4,2,2,4,Female,Faculty of Science,Biochemistry,4th year,No,Moderate PA
+0.54700000000000004,74.254999999999995,74.634,25,3,3,4,2,4,2,4,2,4,2,3,2,2,2,4,2,2,4,Female,Faculty of Science,biomedical science,1st year,No,Light PA
+6.5129999999999999,90.781000000000006,92.38,19,2,2,2,2,1,2,2,2,2,2,2,2,1,3,2,4,3,1,Female,Telfer School of Management,management,2nd year,No,Inactive
+17.675000000000001,96.677000000000007,97.763000000000005,21,3,4,2,4,3,2,4,2,4,2,3,2,3,2,3,3,2,3,Female,Faculty of Social Sciences,criminology,2nd year,No,Light PA
+81.536000000000001,187.81100000000001,188.64099999999999,20,5,1,5,1,5,1,5,1,4,1,3,1,4,1,4,4,1,4,Male,Telfer School of Management,Business Technology Management,2nd year,No,Vigorous PA
+8.9809999999999999,755.23900000000003,756.86599999999999,20,4,2,4,4,3,2,3,2,3,3,4,3,4,2,4,4,3,3,Female,Faculty of Social Sciences,Psychology,3rd year,Yes,Moderate PA
+8.8680000000000003,102.458,102.696,21,4,2,4,2,4,2,4,2,4,2,3,2,3,2,4,4,2,4,Male,Telfer School of Management,accounting,1st year,Yes,Vigorous PA
+8.0519999999999996,70.632999999999996,71.900999999999996,19,2,4,3,4,2,4,2,4,2,5,1,4,2,4,2,4,4,2,Female,Faculty of Science,biopharmaceutical science,1st year,Yes,Light PA
+12.247999999999999,88.364000000000004,89.165000000000006,24,3,3,4,2,4,2,3,2,3,2,2,3,4,2,3,2,2,3,Female,Faculty of Social Sciences,crim,1st year,Yes,Moderate PA
+2138.886,3006.683,3008.1469999999999,19,4,2,3,3,4,2,3,4,3,2,3,3,3,3,3,3,3,3,Female,Faculty of Health Sciences,nursing,1st year,Yes,Inactive
+5.532,289.65899999999999,290.50799999999998,22,4,2,4,2,4,1,4,1,4,1,3,2,4,2,4,3,2,4,Female,Faculty of Science,Bachelor of Science in Chemistry,Other,No,Vigorous PA
+3.3919999999999999,14.676,15.786,19,4,4,5,4,4,3,4,4,4,3,4,4,3,3,3,4,4,4,Male,Faculty of Social Sciences,criminology,1st year,Yes,Moderate PA
+15.343999999999999,116.244,116.765,25,4,2,4,2,4,3,2,4,2,4,1,2,2,3,3,4,2,4,Male,Faculty of Science,Biomedical Sciences,1st year,Yes,Moderate PA
+21.93,245.03100000000001,245.929,24,5,2,4,2,5,1,4,2,5,1,5,1,5,1,5,5,1,5,Male,Telfer School of Management,Finance,2nd year,No,Vigorous PA
+4.3120000000000003,26.401,27.564,22,4,4,3,4,4,4,3,4,3,3,4,4,4,3,3,4,4,4,Female,Faculty of Social Sciences,Political science and J.D.,1st year,Yes,Inactive
+24.626000000000001,164.44499999999999,165.78100000000001,21,1,4,3,4,2,4,2,4,2,3,2,4,2,3,3,5,3,4,Female,Faculty of Science,Biomedical Science,1st year,Yes,Inactive
+620.85400000000004,1132.0889999999999,1133.825,21,2,4,2,4,2,4,2,4,2,3,2,4,2,4,2,4,4,2,Female,Faculty of Science,Statistics,4th year,No,Inactive
+8.4990000000000006,252.33,253.50299999999999,19,5,1,5,1,5,1,3,1,4,1,3,1,5,1,5,5,1,5,Male,Telfer School of Management,Finance,2nd year,No,Vigorous PA
+4.18,87.272000000000006,88.088999999999999,23,4,3,3,2,4,2,3,2,1,1,1,3,2,3,3,5,3,4,Female,Faculty of Arts,Teaching French as a Second Language double major English and French,4th year,No,Moderate PA
+11.893000000000001,32.823999999999998,33.561999999999998,21,3,4,4,2,3,3,3,4,4,3,3,4,4,2,3,3,2,2,Female,Faculty of Health Sciences,Health Sciences,1st year,Yes,Light PA
+7.2629999999999999,121.325,122.246,21,4,2,4,2,5,2,3,2,3,1,3,2,2,2,4,4,2,4,Male,Telfer School of Management,Accounting,4th year,No,Moderate PA
+4.0910000000000002,71.576999999999998,72.492000000000004,38,5,1,5,1,5,1,5,1,4,1,5,1,5,1,5,1,1,5,Male,Faculty of Social Sciences,criminology,3rd year,No,Light PA
+6.4340000000000002,49.466999999999999,50.149000000000001,19,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,5,1,5,Female,Faculty of Social Sciences,Criminology,1st year,Yes,Vigorous PA
+12.603,84.906999999999996,87.533000000000001,22,2,2,4,1,4,1,4,2,4,1,3,1,1,1,4,4,2,2,Male,Faculty of Egineering,Computer Science,2nd year,No,Light PA
+2.7959999999999998,61.985999999999997,62.877000000000002,51,4,2,5,2,5,2,5,2,4,2,4,1,4,2,4,3,1,5,Female,Faculty of Science,Nursing,1st year,Yes,Vigorous PA
+5.2279999999999998,87.078000000000003,87.525000000000006,20,4,2,4,2,4,2,3,2,3,1,2,3,2,2,4,2,2,4,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Light PA
+7.2469999999999999,69.665000000000006,70.861999999999995,18,4,2,5,1,5,1,4,2,5,1,5,1,5,1,5,2,1,5,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+15.016999999999999,87.447000000000003,88.676000000000002,19,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,1,5,Female,Faculty of Health Sciences,nursing,1st year,Yes,Vigorous PA
+19.562999999999999,82.66,83.751000000000005,18,4,2,4,3,4,2,4,2,3,2,1,3,1,3,4,4,3,4,Female,Faculty of Arts,Psychology and Linguistics,1st year,Yes,Moderate PA
+11.259,32.152000000000001,35.959000000000003,18,3,1,2,2,3,2,3,2,4,3,4,3,3,4,3,2,2,3,Female,Faculty of Science,Nursing,1st year,Yes,Light PA
+12.69,83.406000000000006,84.173000000000002,25,4,4,2,4,2,3,2,4,2,2,2,4,2,4,2,4,4,2,Female,Telfer School of Management,Accounting,1st year,Yes,Light PA
+1.4019999999999999,262.07499999999999,266.14499999999998,32,4,3,3,2,4,2,3,2,4,2,2,2,4,2,3,4,2,4,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Light PA
+6.3280000000000003,116.392,119.538,22,5,1,4,1,4,1,4,1,5,1,4,1,4,1,5,4,2,4,Male,Telfer School of Management,Finance,2nd year,No,Vigorous PA
+4.0209999999999999,125.12,128.59100000000001,24,1,5,1,5,2,5,1,1,2,2,1,4,2,4,1,4,4,4,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Inactive
+19.526,125.968,127.163,19,4,2,4,1,5,2,4,2,3,2,2,2,4,1,4,3,2,4,Female,Faculty of Health Sciences,Human Kinetics,1st year,Yes,Moderate PA
+18.248000000000001,62.372,62.997,22,3,4,3,4,2,4,3,3,4,4,2,4,3,4,4,3,4,4,Female,Faculty of Science,Biomedical Science,3rd year,No,Light PA
+24.745999999999999,195.44499999999999,196.75700000000001,19,3,2,4,2,4,2,4,2,3,2,3,1,3,2,4,2,2,4,Female,Faculty of Social Sciences,"Major in social science, minors in psych and linguistics",3rd year,No,Light PA
+2.6150000000000002,149.42400000000001,149.83099999999999,24,4,2,3,2,4,2,3,2,3,2,3,3,3,3,3,5,2,4,These options do not apply to me. I identify as (please specify):,Faculty of Egineering,Computer Science,2nd year,No,Light PA
+22.552,163.47300000000001,164.167,21,4,2,4,2,4,2,3,2,3,2,2,3,2,2,4,4,2,4,Female,Faculty of Social Sciences,Criminology,1st year,Yes,Light PA
+1.7809999999999999,126.512,135.12799999999999,29,3,2,3,2,3,2,3,2,2,2,2,3,3,2,3,4,3,4,Male,Faculty of Science,biomedical science,1st year,Yes,Light PA
+19.495999999999999,174.827,175.51400000000001,20,2,2,3,2,4,2,4,1,3,2,2,2,3,2,4,5,1,5,Female,Faculty of Science,Biomedical Science,1st year,Yes,Moderate PA
+10.007999999999999,129.017,130.001,20,3,3,3,3,2,3,3,2,3,2,3,3,3,2,4,3,2,3,Female,Faculty of Health Sciences,Health Science,1st year,Yes,Inactive
+29.582999999999998,149.34800000000001,150.137,19,4,3,5,4,5,2,5,3,4,1,4,2,4,2,5,5,2,5,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Moderate PA
+3.895,54.003999999999998,55.27,27,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,2,2,3,Female,Faculty of Social Sciences,BA Psychology,1st year,Yes,Light PA
+161.58699999999999,192.55099999999999,194.16300000000001,20,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,3,2,4,Female,Faculty of Health Sciences,nursing,1st year,Yes,Moderate PA
+21.561,96,97.114999999999995,20,4,2,2,2,4,2,2,2,2,2,2,2,4,4,4,2,4,2,Male,Telfer School of Management,Bachelor of commerce with specialization in accounting,2nd year,No,Inactive
+7.6790000000000003,219.63200000000001,220.86500000000001,34,4,1,4,1,4,1,4,1,4,1,3,1,4,1,4,3,2,4,Female,Faculty of Health Sciences,Health Sciences,1st year,Yes,Moderate PA
+7.03,109.724,111.542,21,3,2,4,2,4,2,4,1,4,1,4,2,3,2,4,3,2,4,Female,Faculty of Science,Biomedical Science,1st year,Yes,Light PA
+60.054000000000002,115.845,116.524,20,3,4,2,2,3,4,2,4,2,3,1,4,2,3,4,3,4,4,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+21.962,70.308000000000007,71.614000000000004,18,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,2,2,4,Female,Faculty of Social Sciences,criminology,1st year,Yes,Moderate PA
+3.9830000000000001,69.39,69.72,23,4,2,4,2,4,2,4,2,4,2,3,3,3,3,5,1,1,5,Male,Faculty of Science,General Science,2nd year,No,Moderate PA
+895.65800000000002,1327.55,1328.248,18,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,2,1,5,Female,Faculty of Health Sciences,Human Kinetics,5th year,No,Vigorous PA
+4.657,99.787000000000006,101.84099999999999,29,4,1,5,1,5,1,5,2,3,1,3,1,4,2,5,4,1,5,Female,Faculty of Science,biomedical science,2nd year,Yes,Light PA
+32.302999999999997,125.467,126.4,19,4,2,4,2,4,3,4,2,3,2,4,2,2,2,4,4,2,4,Male,Faculty of Social Sciences,economic,2nd year,No,Moderate PA
+13.528,86.287999999999997,88.938999999999993,23,3,4,2,4,2,2,3,2,2,2,2,4,4,2,2,4,2,4,Female,Faculty of Social Sciences,Psychology and Linguistics,1st year,Yes,Moderate PA
+6.2430000000000003,93.353999999999999,99.171000000000006,23,2,4,1,3,1,4,1,3,1,5,1,5,2,1,1,5,5,1,Female,Telfer School of Management,finance,2nd year,No,Inactive
+6.1840000000000002,652.68299999999999,653.78200000000004,36,3,2,4,2,4,2,3,2,4,2,3,2,4,2,4,4,2,4,Female,Faculty of Egineering,Computer Science,1st year,Yes,Inactive
+273.73,330.50299999999999,332.23200000000003,26,4,2,2,3,3,2,3,2,3,2,2,2,3,3,3,3,2,3,Female,Telfer School of Management,B.com avec spécialisation en comptabilité,2nd year,No,Inactive
+17.268999999999998,130.08500000000001,131.351,23,4,2,4,2,4,2,3,2,2,3,3,3,2,2,4,3,2,4,Female,Telfer School of Management,Accounting,2nd year,No,Moderate PA
+0.97499999999999998,343.82600000000002,348.72500000000002,24,4,2,4,2,4,2,3,2,4,2,3,2,3,2,4,5,2,2,Male,Telfer School of Management,Bachelor of Commerce specialization in Finance,2nd year,No,Vigorous PA
+4.8689999999999998,50.127000000000002,50.856999999999999,21,4,1,4,1,4,1,4,1,4,1,3,1,4,1,4,2,1,5,Male,Telfer School of Management,Management,2nd year,No,Moderate PA
+28.634,123.432,124.44199999999999,33,5,1,5,1,5,1,5,1,4,1,5,1,5,1,5,5,1,5,Male,Faculty of Science,Biomedical Science,1st year,Yes,Moderate PA
+5.5060000000000002,52.051000000000002,53.771000000000001,18,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,1,5,Male,Faculty of Social Sciences,criminology,1st year,Yes,Moderate PA
+12.237,27.457000000000001,27.741,22,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Male,Faculty of Social Sciences,economic,3rd year,No,Light PA
+12.696,79.906000000000006,81.718999999999994,22,4,2,4,1,4,1,4,1,4,1,4,2,4,1,1,4,1,4,Female,Telfer School of Management,Finance,1st year,Yes,Moderate PA
+4.0490000000000004,86.617999999999995,88.286000000000001,24,2,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,4,2,Female,Faculty of Egineering,Computer Science,3rd year,No,Inactive
+9.3640000000000008,64.073999999999998,67.126999999999995,20,5,1,5,1,5,1,5,1,4,1,4,1,4,1,5,1,1,5,Female,Faculty of Health Sciences,Honours BSc in Biomedical Science,2nd year,No,Moderate PA
+14.202999999999999,92.99,94.185000000000002,21,4,2,4,1,4,1,4,1,4,1,4,1,4,1,4,2,1,4,Female,Faculty of Arts,psychology/linguistics,1st year,Yes,Moderate PA
+116.843,300.51499999999999,303.84899999999999,25,2,4,2,4,2,4,1,4,2,3,3,4,1,4,1,4,4,2,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+4.3460000000000001,34.579000000000001,35.374000000000002,23,4,4,4,4,4,2,4,2,1,2,3,1,4,4,4,4,4,4,Male,Telfer School of Management,finance,2nd year,Yes,Moderate PA
+10.605,65.754000000000005,67.575000000000003,21,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Arts,Psychology and linguistic,1st year,Yes,Inactive
+33.445999999999998,134.16300000000001,134.96799999999999,26,4,2,3,2,4,2,3,2,2,3,3,2,2,2,3,4,2,4,Male,Telfer School of Management,Accounting,2nd year,No,Moderate PA
+22.202000000000002,110.133,112.001,21,4,2,5,1,5,1,4,2,4,1,4,1,4,1,4,2,1,5,Male,Faculty of Science,Biomedical Sciences,1st year,Yes,Moderate PA
+0.43,104.32,106.834,31,1,5,1,5,4,4,1,5,1,1,1,5,1,5,1,5,5,1,Female,Faculty of Health Sciences,Health Sciences,1st year,Yes,Light PA
+6.766,90.144999999999996,91.228999999999999,23,3,3,4,2,4,2,3,2,4,2,2,3,4,2,4,4,3,4,Female,Faculty of Social Sciences,International Development & Globalization,2nd year,No,Light PA
+10.08,100.518,103.307,19,3,2,3,2,3,2,2,3,2,2,3,3,3,2,2,2,4,3,Female,Telfer School of Management,Commerce,2nd year,No,Light PA
+6.109,62.47,63.469000000000001,18,4,2,5,2,5,2,4,2,4,2,3,2,4,2,4,2,2,4,Female,Faculty of Health Sciences,Health Science,1st year,Yes,Vigorous PA
+3.073,54.817999999999998,55.356000000000002,21,4,2,3,2,4,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Science,biomedical science,1st year,Yes,Moderate PA
+4.9569999999999999,85.103999999999999,85.828000000000003,20,4,3,4,2,4,2,3,3,3,2,4,2,4,2,4,4,2,4,Male,Faculty of Health Sciences,Nursing,1st year,Yes,Light PA
+6.0460000000000003,27.895,29.768999999999998,28,4,3,4,4,4,3,3,4,3,4,4,4,3,3,4,3,4,3,Male,Faculty of Health Sciences,health science,1st year,Yes,Vigorous PA
+1.6579999999999999,31.648,32.627000000000002,19,3,3,3,3,3,3,4,4,4,4,4,3,3,3,4,4,3,4,Female,Telfer School of Management,finance,3rd year,No,Vigorous PA
+30.966000000000001,156.755,159.11199999999999,23,2,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,2,2,Female,Telfer School of Management,accounting,2nd year,No,Moderate PA
+4.1479999999999997,91.715999999999994,92.343000000000004,39,2,4,3,4,2,4,2,4,2,3,1,4,2,2,2,5,4,2,Male,Faculty of Science,Biomedical science,2nd year,Yes,Inactive
+5.4450000000000003,307.14100000000002,308.23700000000002,20,3,3,4,3,4,3,3,3,2,2,4,2,4,2,3,3,2,4,Female,Faculty of Science,biomed,1st year,Yes,Inactive
+5.1870000000000003,82.802999999999997,83.691999999999993,20,2,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,4,2,Female,Faculty of Arts,Teaching FLS,2nd year,No,Inactive
+6.9420000000000002,148.119,149.03299999999999,19,5,2,1,2,4,2,3,2,3,1,3,3,5,2,3,3,3,4,Female,Telfer School of Management,Human Resource Management,1st year,Yes,Inactive
+5.399,82.048000000000002,83.251999999999995,20,2,4,3,3,3,4,3,4,3,2,1,4,2,3,2,3,3,3,Female,Faculty of Social Sciences,Economics and Political Science,1st year,Yes,Light PA
+319.93599999999998,372.101,376.38799999999998,21,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,4,1,5,Male,Faculty of Social Sciences,psychology,2nd year,No,Vigorous PA
+1.149,12.404999999999999,13.18,18,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Male,Faculty of Science,Science,1st year,Yes,Moderate PA
+17.885999999999999,102.801,104.485,22,5,1,5,1,5,1,4,1,4,2,4,2,5,1,5,4,1,5,Male,Telfer School of Management,Commerce in Accounting,2nd year,No,Moderate PA
+6.04,76.599999999999994,77.766000000000005,25,2,4,2,3,2,4,2,4,1,2,1,4,2,2,3,4,3,3,Female,Faculty of Science,Biomedical Science,1st year,Yes,Light PA
+12.586,67.308000000000007,68.361000000000004,20,5,1,5,1,5,1,5,1,5,1,4,1,4,1,5,4,1,5,Male,Faculty of Social Sciences,Political science and juris doctor,2nd year,No,Vigorous PA
+10.958,88.302999999999997,89.893000000000001,31,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,2,5,1,Female,Faculty of Science,biomedical Sciences,1st year,Yes,Inactive
+4.2,75.503,77.058999999999997,21,3,2,2,3,4,2,3,2,2,1,1,2,3,2,3,2,2,4,Female,Faculty of Science,Biomedical Science,2nd year,No,Light PA
+6.5369999999999999,94.635999999999996,96.438000000000002,20,3,2,4,2,3,2,3,2,3,3,3,2,2,2,4,3,3,4,Female,Faculty of Health Sciences,Bachelor of Science in Nursing,1st year,Yes,Light PA
+43.463000000000001,136.38300000000001,137.495,26,3,2,4,3,4,3,3,4,2,3,2,3,3,3,4,4,3,4,Female,Faculty of Science,Biomedical Sciences,1st year,Yes,Light PA
+0.81200000000000006,12.172000000000001,12.736000000000001,21,5,4,4,4,3,3,4,4,4,5,5,4,3,3,3,4,4,5,Male,Telfer School of Management,Commerce,2nd year,No,Light PA
+9.3360000000000003,98.816000000000003,101.494,22,4,1,5,1,5,1,3,1,5,1,4,1,4,1,5,5,1,5,Female,Faculty of Science,Physics,3rd year,Yes,Moderate PA
+4.4260000000000002,30.202000000000002,31.574999999999999,19,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Faculty of Social Sciences,psychology,3rd year,No,Vigorous PA
+2.2919999999999998,10.122999999999999,10.614000000000001,19,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Science,Biomedical science,1st year,Yes,Light PA
+5.593,62.445999999999998,63.195,20,5,1,4,1,5,1,5,1,5,1,5,1,5,1,5,3,1,5,Male,Telfer School of Management,Business Commerce Management,2nd year,No,Vigorous PA
+18.207999999999998,117.223,120.437,21,4,4,3,4,3,2,3,4,2,3,2,4,2,3,4,4,2,4,Female,Faculty of Science,Biomed,1st year,Yes,Light PA
+3.919,52.784999999999997,53.606999999999999,18,3,3,2,2,4,2,2,2,2,2,2,2,2,2,4,4,2,2,Female,Faculty of Social Sciences,Criminology,2nd year,No,Inactive
+6.8579999999999997,60.048000000000002,61.063000000000002,18,3,3,3,4,3,4,3,3,4,2,3,2,4,2,4,4,3,4,Female,Telfer School of Management,accounting,1st year,Yes,Light PA
+7.1769999999999996,135.10599999999999,136.66,29,3,3,4,3,3,3,2,4,2,1,1,3,3,1,3,4,3,5,Female,Faculty of Health Sciences,Health Sciences,1st year,Yes,Light PA
+7.6740000000000004,67.843000000000004,68.768000000000001,24,3,2,3,2,2,2,3,2,2,3,2,2,4,4,4,4,4,4,Female,Faculty of Social Sciences,psychology,2nd year,Yes,Inactive
+0.873,33.661999999999999,34.767000000000003,23,3,2,4,3,3,4,4,3,4,4,4,2,2,2,4,4,2,2,Male,Faculty of Social Sciences,Psychology and Linguistics,1st year,Yes,Vigorous PA
+8.1910000000000007,82.423000000000002,85.128,20,3,3,3,1,3,1,3,1,3,1,2,1,3,1,3,3,1,4,Female,Telfer School of Management,management,2nd year,No,Light PA
+0.66900000000000004,15.942,16.378,20,2,1,2,3,2,3,4,3,5,3,2,2,4,4,3,3,3,4,Male,Telfer School of Management,acounting,2nd year,No,Vigorous PA
+10.122999999999999,67.180999999999997,68.275000000000006,19,4,2,4,2,4,2,4,2,3,2,4,2,3,2,4,2,2,4,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Moderate PA
+2.5569999999999999,231.661,253.465,42,2,3,4,2,4,2,2,2,2,2,3,3,2,2,4,4,3,4,Male,Faculty of Science,Honours BSc Biomedical Science,1st year,Yes,Inactive
+3.3940000000000001,69.534999999999997,70.322000000000003,26,3,2,4,2,4,2,3,2,3,3,3,3,3,2,4,3,2,4,Male,Telfer School of Management,Finance+Marketing,2nd year,No,Moderate PA
+8.2769999999999992,68.534999999999997,81.662000000000006,19,4,2,5,1,5,1,5,1,5,1,5,1,5,1,5,1,1,5,Male,Faculty of Social Sciences,Science of physical activity,3rd year,No,Moderate PA
+1.054,29.041,29.74,40,3,3,3,2,5,2,3,3,4,2,3,4,2,3,4,3,3,3,Male,Faculty of Science,Biomedical Science,1st year,Yes,Vigorous PA
+56.680999999999997,304.95,306.47899999999998,26,4,2,3,2,4,2,3,2,3,2,2,3,3,2,4,3,2,4,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Moderate PA
+7.444,230.59800000000001,230.929,34,3,3,2,2,4,2,2,2,2,3,3,3,2,1,3,4,2,3,Female,Telfer School of Management,Management,2nd year,No,Inactive
+9.1780000000000008,113.685,114.697,19,4,2,4,2,3,2,4,2,4,2,4,2,4,2,4,3,2,4,Female,Telfer School of Management,Commerce- Management,2nd year,No,Moderate PA
+42.860999999999997,842.15700000000004,843.5,21,2,4,4,4,4,4,3,4,2,1,2,3,1,4,3,4,3,2,Female,Faculty of Arts,Joint honours psychology and linguistics,1st year,Yes,Inactive
+5.15,16.75,18.751999999999999,18,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Telfer School of Management,International Management,2nd year,Yes,Light PA
+9.0030000000000001,87.594999999999999,88.692999999999998,27,5,2,5,2,5,2,4,2,4,1,4,2,4,2,5,4,2,4,Female,Faculty of Health Sciences,Health Sciences,1st year,Yes,Moderate PA
+11.125999999999999,85.8,86.900999999999996,18,4,2,4,2,5,2,2,2,4,1,4,1,4,2,4,2,2,4,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Vigorous PA
+38.622,99.271000000000001,100.048,20,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,2,2,4,Female,Faculty of Social Sciences,psychology,1st year,Yes,Vigorous PA
+12.205,71.191999999999993,71.872,23,4,2,4,2,4,2,4,2,4,2,3,2,3,2,4,3,2,4,Female,Faculty of Health Sciences,Health Sciences,4th year,No,Moderate PA
+9.2479999999999993,71.864999999999995,72.906000000000006,18,4,2,4,2,4,2,4,2,3,2,3,2,4,2,4,3,2,4,Female,Faculty of Science,biopharmaceutical science,1st year,Yes,Moderate PA
+1.266,19.547000000000001,20.367999999999999,19,3,3,4,4,4,4,4,4,4,4,3,3,4,3,4,3,4,4,Perfer not to disclose,Telfer School of Management,Marketing,2nd year,No,Light PA
+6.9630000000000001,126.471,127.247,27,2,5,4,5,2,4,1,1,1,2,2,2,2,4,4,4,4,2,Female,Faculty of Arts,Psychology,1st year,Yes,Light PA
+5.9390000000000001,481.62799999999999,483.03199999999998,19,2,4,3,4,3,4,2,4,4,3,3,3,3,3,3,2,3,2,Female,Faculty of Science,Biochemistry,3rd year,No,Light PA
+4.4649999999999999,140.51499999999999,141.68100000000001,25,2,4,1,4,1,4,1,4,2,4,2,4,1,3,2,2,4,1,Female,Faculty of Science,Biomedical Science,2nd year,No,Inactive
+3.9129999999999998,77.373000000000005,78.552999999999997,25,3,2,4,3,3,2,3,3,3,2,3,3,3,2,3,3,2,4,Female,Faculty of Social Sciences,Political science and communication,2nd year,No,Light PA
+16.437000000000001,147.273,148.38399999999999,18,4,2,4,2,5,1,4,2,4,1,4,1,4,2,4,3,1,4,Male,Telfer School of Management,accounting,2nd year,No,Vigorous PA
+11.922000000000001,60.613999999999997,62.517000000000003,24,4,2,4,2,4,2,4,2,4,2,3,1,4,1,4,3,1,4,Female,Faculty of Science,Biomedical Science,1st year,Yes,Light PA
+10.143000000000001,17.725999999999999,19.315999999999999,18,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Male,Faculty of Social Sciences,Economics,4th year,No,Moderate PA
+8.2949999999999999,88.606999999999999,92.712999999999994,27,2,4,3,2,2,2,3,2,2,4,3,3,2,2,3,4,2,4,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Inactive
+8.93,73.893000000000001,74.844999999999999,29,2,4,2,4,1,4,2,2,2,4,2,5,1,4,1,3,4,2,Female,Faculty of Arts,Psychology linguistics,1st year,Yes,Light PA
+11.177,118.342,119.398,22,4,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,1,4,Male,Telfer School of Management,Marketing,2nd year,No,Vigorous PA
+22.507999999999999,97.251999999999995,99.79,20,3,3,3,3,3,3,3,3,3,2,2,2,3,2,2,2,2,3,Female,Faculty of Health Sciences,nursing,1st year,Yes,Vigorous PA
+15.978,193.66300000000001,226.346,19,4,2,5,1,5,1,5,2,4,2,4,1,4,2,5,4,1,4,Male,Telfer School of Management,Commerce and finance,1st year,Yes,Moderate PA
+20.37,119.854,121.246,23,4,2,5,2,5,2,5,2,4,1,5,1,4,2,4,1,1,4,Female,Faculty of Health Sciences,Health Science,4th year,No,Moderate PA
+1.802,40.100999999999999,41.093000000000004,23,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,5,1,5,Male,Faculty of Health Sciences,Health Science,1st year,Yes,Vigorous PA
+6.4610000000000003,211.80099999999999,212.833,21,3,2,3,2,4,2,2,2,4,3,3,2,2,2,4,3,2,4,Female,Faculty of Social Sciences,psychology,1st year,Yes,Moderate PA
+4.391,109.60599999999999,110.55200000000001,23,4,2,4,2,5,2,4,2,4,1,4,2,4,2,4,3,2,4,Male,Faculty of Social Sciences,psychology,3rd year,Yes,Moderate PA
+6.133,88.798000000000002,90.093999999999994,20,2,3,3,2,4,2,3,2,3,2,2,3,3,2,4,4,2,3,Female,Faculty of Social Sciences,Psychology,Other,Yes,Light PA
+3.9129999999999998,89.956999999999994,91.185000000000002,26,3,3,2,4,1,3,2,2,1,4,2,4,2,4,2,5,3,4,Female,Faculty of Social Sciences,Psychology Bachelor of Arts,1st year,Yes,Light PA
+6.9660000000000002,215.23099999999999,277.2,24,3,2,3,2,3,4,3,2,3,2,2,3,4,2,2,4,2,4,Female,Faculty of Science,Biomedical science,1st year,Yes,Light PA
+0.89400000000000002,21.16,21.66,28,2,3,3,3,2,3,4,3,4,3,2,3,3,3,3,3,2,4,Female,Telfer School of Management,finance,2nd year,No,Moderate PA
+12.519,70.263999999999996,72.418000000000006,20,4,2,5,2,4,1,4,2,3,1,3,1,4,1,4,2,1,5,Male,Faculty of Health Sciences,Honours Bachelors of Health Sciences,1st year,Yes,Moderate PA
+13.925000000000001,105.94799999999999,107.89100000000001,22,3,2,3,4,3,3,3,2,3,3,2,2,3,3,2,3,3,3,Female,Faculty of Egineering,Computer Science,2nd year,No,Inactive
+14.494,95.754000000000005,97.075000000000003,18,4,1,4,2,4,1,4,2,4,2,3,2,4,2,5,4,2,4,Male,Telfer School of Management,Honours BCom,2nd year,Yes,Vigorous PA
+5.31,36.555,37.295000000000002,18,2,5,2,5,2,5,2,5,2,5,2,5,2,5,2,2,5,2,Female,Faculty of Health Sciences,Honours Health Sciences,1st year,Yes,Light PA
+1.048,10.103999999999999,10.9,18,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Health Sciences,"n ,m",3rd year,No,Moderate PA
+11.519,78.218000000000004,78.960999999999999,18,5,1,5,1,5,1,4,1,5,1,4,1,4,1,5,3,1,5,Female,Faculty of Arts,interdisciplinary Studies,2nd year,No,Vigorous PA
+0.85199999999999998,233.267,235.48599999999999,29,4,3,4,3,5,3,3,3,3,4,3,4,4,3,4,3,4,4,Female,Faculty of Medicine,Kinesiology,1st year,Yes,Light PA
+13.4,85.998999999999995,87.113,23,4,3,4,4,5,3,4,3,3,4,3,5,3,4,3,4,3,2,Female,Faculty of Social Sciences,psychology,1st year,Yes,Moderate PA
+7.8920000000000003,89.1,90.694000000000003,19,4,2,2,3,4,2,3,2,2,2,2,2,2,2,3,3,3,5,Female,Faculty of Science,Biomedical,1st year,No,Moderate PA
+4.4269999999999996,69.938999999999993,71.346999999999994,24,2,5,2,5,3,4,1,5,2,2,2,3,1,4,2,5,4,2,Female,Telfer School of Management,accounting,3rd year,No,Inactive
+17.835000000000001,106.82599999999999,108.211,24,3,4,4,4,3,3,3,3,3,2,3,3,3,3,4,3,4,3,Male,Telfer School of Management,management,2nd year,Yes,Moderate PA
+17.404,79.414000000000001,80.823999999999998,27,3,4,3,4,4,4,2,4,2,2,1,3,4,3,4,2,4,4,Female,Faculty of Health Sciences,Bachelor of Health Science,3rd year,No,Inactive
+3.5419999999999998,474.03100000000001,475.37200000000001,24,4,2,4,2,5,2,4,2,3,2,4,2,4,2,4,2,2,4,Female,Faculty of Social Sciences,Psychology Ba,1st year,Yes,Moderate PA
+14.672000000000001,111.392,112.511,23,4,2,4,2,3,2,3,3,2,1,1,1,2,1,2,4,2,4,Female,Faculty of Health Sciences,Nursing,1st year,No,Light PA
+19.052,120.89,121.758,22,3,4,3,4,3,4,2,2,2,3,4,3,2,3,3,5,4,2,Female,Faculty of Social Sciences,Bsc psychology,1st year,Yes,Inactive
+6.5090000000000003,68.248999999999995,69.006,20,2,4,3,4,3,3,3,4,2,3,2,4,2,5,3,4,3,3,Female,Faculty of Social Sciences,social sciences,1st year,Yes,Inactive
+11.109,81.114000000000004,81.563999999999993,20,4,3,4,3,4,2,4,3,4,2,2,2,2,2,4,2,2,3,Male,Telfer School of Management,Commerce,1st year,Yes,Moderate PA
+5.2990000000000004,33.372999999999998,34.884,19,4,4,4,4,3,3,3,4,2,3,3,4,4,2,4,3,2,4,Male,Faculty of Arts,psychology and in linguistics,1st year,Yes,Inactive
+5.9729999999999999,70.111000000000004,70.861999999999995,23,3,2,2,2,2,3,3,2,2,4,3,4,2,2,2,4,4,4,Female,Faculty of Health Sciences,nursing,1st year,Yes,Inactive
+601.98099999999999,653.18200000000002,654.08900000000006,20,1,4,2,4,2,4,2,4,1,3,2,4,2,4,2,4,4,4,Female,Faculty of Health Sciences,Honours health sciences,4th year,No,Moderate PA
+18.245999999999999,99.158000000000001,99.846000000000004,19,3,3,2,3,2,3,2,3,3,3,2,4,3,2,4,4,2,4,Female,Faculty of Social Sciences,Psychology bsc.,1st year,Yes,Light PA
+11.254,126.80200000000001,128.221,19,5,1,5,1,5,1,4,1,3,1,3,1,5,1,5,1,1,5,Male,Faculty of Health Sciences,Special Student,Other,Yes,Vigorous PA
+19.942,207.84700000000001,208.86799999999999,45,2,3,2,4,3,3,2,4,2,3,2,4,2,3,2,4,4,3,Female,Faculty of Health Sciences,Health Sciences,1st year,Yes,Inactive
+4.28,56.491999999999997,57.076000000000001,31,5,1,5,1,5,1,4,1,4,1,4,2,4,1,5,4,1,5,Male,Faculty of Social Sciences,Psychology & Linguistics,1st year,Yes,Moderate PA
+4.2329999999999997,72.591999999999999,74.113,22,5,1,5,1,5,1,5,1,5,1,4,1,5,1,5,3,1,5,Male,Faculty of Social Sciences,Psychology,2nd year,No,Vigorous PA
+20.789000000000001,76.126000000000005,78.129000000000005,20,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,2,2,4,Male,Faculty of Egineering,Software Engineering,5th year,No,Moderate PA
+7.8579999999999997,29.561,30.571000000000002,24,3,3,4,2,4,3,4,3,3,3,3,2,3,4,3,3,2,3,Male,Faculty of Science,Biomedical,2nd year,No,Light PA
+28.844000000000001,101.273,102.09699999999999,19,4,4,2,2,3,4,2,4,2,3,2,4,3,4,3,4,4,3,Female,Faculty of Science,Bachelor of Science in Biomedical Sciences,4th year,No,Inactive
+14.093,83.313999999999993,84.540999999999997,19,4,1,4,1,5,1,5,1,4,1,5,1,5,1,5,2,1,5,Female,Faculty of Science,Biomedical Science,1st year,Yes,Vigorous PA
+11.423999999999999,284.30200000000002,285.99299999999999,19,5,2,4,2,4,2,2,2,4,2,2,2,4,2,2,4,1,4,Male,Faculty of Health Sciences,health science,1st year,Yes,Moderate PA
+15.849,116.512,118.247,19,2,4,2,4,3,4,2,4,2,2,2,4,2,4,2,4,4,2,Male,Faculty of Arts,FLS,2nd year,No,Light PA
+20.268000000000001,130.85499999999999,131.77600000000001,20,5,1,5,1,5,1,5,1,4,1,5,1,5,1,5,1,1,5,Female,Faculty of Science,Biology,3rd year,No,Vigorous PA
+1.911,137.22200000000001,138.65600000000001,33,4,2,4,2,4,2,3,3,3,2,4,2,4,2,4,5,2,4,Male,Telfer School of Management,BCom (Finance),1st year,Yes,Moderate PA
+8.6110000000000007,94.614999999999995,95.831999999999994,22,3,2,4,2,3,3,3,3,3,3,3,3,3,2,3,4,3,4,Female,Faculty of Health Sciences,sciences de la santé,1st year,No,Light PA
+5.2320000000000002,60.4,61.604999999999997,19,4,2,3,3,4,2,2,2,2,4,3,3,3,2,4,2,2,3,Female,Telfer School of Management,Finance And Healthcare Analytics,2nd year,No,Inactive
+23.873999999999999,116.992,118.151,20,4,1,5,1,5,1,4,1,3,2,1,1,3,2,4,3,1,4,Male,Faculty of Science,Biomedical Sciences,1st year,Yes,Moderate PA
+8.5980000000000008,108.432,109.301,22,3,2,3,2,4,2,3,2,4,2,3,3,3,2,4,4,3,4,Female,Telfer School of Management,Accounting,1st year,No,Light PA
+12.125,67.393000000000001,68.266999999999996,18,5,1,4,1,5,1,4,1,5,1,4,1,4,1,5,3,1,5,Female,Faculty of Arts,DLS,3rd year,No,Moderate PA
+3.5289999999999999,21.565999999999999,23.202999999999999,22,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Telfer School of Management,Accounting,2nd year,No,Inactive
+13.737,648.11699999999996,650.73400000000004,21,4,3,3,4,2,3,2,4,2,3,2,4,4,3,4,4,4,3,Female,Telfer School of Management,International Management,2nd year,No,Light PA
+8.3119999999999994,57.447000000000003,58.963999999999999,21,4,3,3,3,4,3,3,3,4,2,2,3,3,3,3,4,3,4,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Inactive
+6.5380000000000003,241.411,242.08099999999999,23,2,5,1,5,1,5,2,4,1,4,1,4,1,2,1,3,3,2,Female,Faculty of Social Sciences,psychology,1st year,Yes,Inactive
+8.3620000000000001,187.16499999999999,190.053,21,2,4,2,4,3,4,2,4,1,4,1,4,3,4,3,5,4,2,Female,Faculty of Social Sciences,psychology,1st year,Yes,Inactive
+0.91100000000000003,13.648999999999999,14.167999999999999,22,2,3,3,4,2,2,3,3,4,3,2,3,4,3,3,3,3,3,Male,Telfer School of Management,Finance,2nd year,No,Inactive
+0.68500000000000005,8.9830000000000005,9.3650000000000002,34,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Male,Faculty of Egineering,Computer Science,2nd year,Yes,Inactive
+40.558,123.389,123.81100000000001,19,4,2,4,2,4,2,4,2,3,2,3,2,4,2,4,4,2,4,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+4.117,57.939,58.783000000000001,21,2,4,2,4,3,4,2,4,2,3,2,4,1,4,3,5,4,4,Female,Faculty of Social Sciences,Psychology,5th year,No,Moderate PA
+18.844999999999999,147.69200000000001,150.01499999999999,19,3,2,4,2,4,2,4,2,4,1,3,2,3,2,4,4,2,4,Female,Faculty of Health Sciences,Health Sciences,4th year,No,Light PA
+10.763,78.402000000000001,78.715999999999994,20,5,1,4,1,5,1,4,1,3,1,3,1,4,1,4,3,1,4,Male,Faculty of Health Sciences,Human Kinetics,4th year,No,Vigorous PA
+8.2669999999999995,208.43600000000001,210.57400000000001,20,4,2,3,3,4,2,4,2,3,3,3,3,2,2,4,3,3,4,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Moderate PA
+10.471,71.12,72.308000000000007,18,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,5,1,5,Female,Faculty of Social Sciences,Honours Psychology,1st year,Yes,Vigorous PA
+7.5449999999999999,62.183999999999997,62.953000000000003,20,5,2,4,2,4,2,5,1,5,2,4,2,4,1,5,1,1,5,Male,Faculty of Arts,BA (Music),2nd year,No,Light PA
+3.2549999999999999,35.326000000000001,38.673999999999999,39,2,3,1,5,4,4,5,3,1,3,4,3,1,4,3,4,5,5,Male,Faculty of Arts,Psychology,1st year,Yes,Moderate PA
+0.53300000000000003,92.784000000000006,94.138999999999996,58,3,4,3,2,2,4,2,4,2,4,2,4,2,4,2,4,2,3,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Inactive
+8.9410000000000007,65.495999999999995,68.756,18,1,4,1,4,1,4,1,4,1,4,1,4,1,4,1,3,4,1,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Inactive
+3.4180000000000001,77.430000000000007,77.875,41,1,1,2,1,2,4,3,4,1,3,1,4,1,3,3,3,3,3,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+3.1320000000000001,84.927999999999997,85.992999999999995,36,3,2,4,4,4,2,3,3,2,1,5,1,1,1,1,1,1,1,Female,Telfer School of Management,Management,3rd year,No,Moderate PA
+1.0289999999999999,11.381,12.086,18,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Health Sciences,Health Science,1st year,Yes,Moderate PA
+13.634,111.462,113.70099999999999,25,3,2,4,3,4,2,3,2,4,2,3,2,4,2,4,3,2,4,Male,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+12.065,73.057000000000002,73.781999999999996,18,5,1,5,1,5,1,5,1,4,1,5,1,5,1,5,1,1,5,Female,Faculty of Social Sciences,Economics,4th year,No,Vigorous PA
+1.0580000000000001,8.5459999999999994,9.2620000000000005,19,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Inactive
+6.8490000000000002,86.070999999999998,88.091999999999999,26,3,2,2,4,4,2,3,3,2,2,2,2,4,3,4,4,2,2,Male,Telfer School of Management,accounting,3rd year,No,Light PA
+8.9789999999999992,114.137,114.526,28,5,2,5,2,5,2,4,2,3,1,3,2,5,3,4,3,2,5,Male,Telfer School of Management,accounting,2nd year,No,Vigorous PA
+6.0069999999999997,84.257000000000005,84.989000000000004,22,5,1,5,1,5,1,4,1,5,1,4,1,2,1,5,3,1,5,Female,Faculty of Health Sciences,HK,1st year,Yes,Moderate PA
+11.468,63.923999999999999,115.304,27,4,4,5,2,4,3,4,2,3,4,4,4,3,2,3,4,1,4,Male,Telfer School of Management,Accouniting,2nd year,No,Moderate PA
+93.483999999999995,250.179,250.786,23,4,2,4,1,5,1,4,1,4,1,3,2,4,1,4,4,2,4,Male,Faculty of Health Sciences,BScN,1st year,Yes,Light PA
+41.92,97.674000000000007,100.916,19,2,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,4,2,Female,Faculty of Science,BioMed,1st year,Yes,Light PA
+12.73,1011.205,1011.754,19,2,3,2,4,3,4,2,4,2,3,2,4,2,4,2,4,3,4,Female,Telfer School of Management,Commerce,3rd year,No,Light PA
+50.48,130.07900000000001,130.71700000000001,28,4,2,3,2,3,2,2,2,3,3,2,3,2,3,3,4,2,3,Male,Faculty of Science,Biomedical Science,1st year,Yes,Light PA
+7.0810000000000004,49.417000000000002,50.304000000000002,23,3,3,2,4,3,4,2,2,2,3,3,3,2,2,4,4,3,2,Female,Faculty of Health Sciences,Bachelors Honours of Health Science,1st year,Yes,Inactive
+2.044,15.525,16.277999999999999,19,4,3,2,3,3,3,3,3,4,4,4,4,4,4,3,2,2,3,Female,Faculty of Science,Biomedical Science,2nd year,No,Light PA
+9.1170000000000009,128.167,128.84800000000001,43,1,3,2,5,3,4,2,4,2,2,2,3,4,4,4,5,4,3,Male,Telfer School of Management,Management,1st year,Yes,Light PA
+2.2669999999999999,16.701000000000001,17.216000000000001,18,3,3,4,4,4,3,4,4,3,4,3,4,4,3,3,3,4,4,Male,Faculty of Science,Mathematics,4th year,No,Moderate PA
+1.6120000000000001,17.600999999999999,18.934999999999999,18,3,3,3,3,3,3,3,3,3,3,2,2,3,2,2,3,3,3,Male,Telfer School of Management,Accounting,2nd year,No,Inactive
+0.85899999999999999,9.7579999999999991,10.260999999999999,19,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Telfer School of Management,finance,2nd year,Yes,Inactive
+77.626999999999995,174.25299999999999,175.489,18,2,2,3,3,3,3,3,2,2,2,2,3,2,2,3,4,3,3,Female,Faculty of Arts,psychology,1st year,Yes,Light PA
+28.248000000000001,69.519000000000005,70.933999999999997,22,4,1,4,1,4,1,4,1,4,1,4,1,1,1,4,2,2,2,Male,Faculty of Social Sciences,Communication,3rd year,No,Vigorous PA
+4.5970000000000004,1263.508,1264.7560000000001,45,4,1,5,1,5,2,5,1,5,4,5,2,5,3,5,5,1,5,Male,Faculty of Science,biomedical science,2nd year,No,Inactive
+1.1659999999999999,10.747999999999999,12.023,24,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Inactive
+7.4119999999999999,53.68,54.109000000000002,20,4,3,4,3,4,3,4,2,3,2,4,2,4,2,4,3,2,4,Female,Faculty of Health Sciences,Nursing,1st year,No,Light PA
+10.000999999999999,220.78700000000001,222.15199999999999,61,3,2,4,2,4,2,4,3,4,2,3,4,4,4,2,2,2,4,Female,Faculty of Health Sciences,Honours Bachelor of Health Sciences,4th year,No,Light PA
+7.0570000000000004,58.746000000000002,59.886000000000003,18,4,2,3,2,4,2,3,2,3,2,4,2,3,2,4,2,2,2,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+14.39,132.05500000000001,133.00200000000001,23,4,1,4,1,4,1,4,1,3,1,4,1,4,1,4,3,1,4,Female,Telfer School of Management,management,2nd year,No,Vigorous PA
+15.42,105.724,107.467,18,2,2,2,4,2,3,3,3,3,3,2,4,2,3,3,3,2,3,Female,Faculty of Social Sciences,chra,4th year,No,Light PA
+28.271000000000001,152.851,153.851,29,3,2,3,3,3,4,3,3,3,2,3,2,3,2,3,4,4,2,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Light PA
+7.8630000000000004,90.328000000000003,99.741,19,3,4,3,3,3,4,2,4,2,4,2,4,2,4,2,2,4,2,Female,Telfer School of Management,international management,2nd year,No,Inactive
+3.9940000000000002,76.105999999999995,78.501000000000005,38,4,1,4,1,4,4,4,1,4,1,3,1,4,1,4,3,1,4,Female,Faculty of Health Sciences,Nursing - bridging program,1st year,Yes,Light PA
+8.4949999999999992,112.86499999999999,115.035,20,4,3,3,3,2,3,2,3,3,4,2,4,4,3,3,4,3,4,Female,Faculty of Health Sciences,Human Kinetics,1st year,Yes,Inactive
+1.296,9.1950000000000003,10.311999999999999,19,4,4,4,4,4,4,3,3,3,3,3,3,3,4,4,4,3,3,Female,Faculty of Science,Biomedical science,1st year,Yes,Inactive
+10.11,53.856000000000002,57.603999999999999,25,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,3,5,1,Female,Faculty of Social Sciences,Psychology,2nd year,No,Light PA
+2.5329999999999999,19.315999999999999,20.39,19,3,3,2,2,3,3,3,3,4,3,3,3,3,3,3,3,3,3,Female,Faculty of Social Sciences,psychology,1st year,Yes,Moderate PA
+1.4950000000000001,24.895,25.882999999999999,18,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Health Sciences,health science,1st year,Yes,Inactive
+0.83,12.811999999999999,13.223000000000001,19,4,3,3,4,2,3,1,3,4,4,5,2,4,2,1,4,3,3,Male,Faculty of Social Sciences,economics,3rd year,No,Light PA
+15.625999999999999,88.082999999999998,89.91,19,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,3,1,5,Male,Telfer School of Management,Finance,2nd year,No,Vigorous PA
+22.986000000000001,125.19,126.38800000000001,27,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,4,2,4,Male,Faculty of Arts,Communications,3rd year,No,Light PA
+1.508,37.405000000000001,37.893000000000001,23,4,2,4,3,4,2,4,2,4,3,3,3,2,2,4,2,2,4,Male,Faculty of Health Sciences,Interdisciplinary Health Sciences,1st year,Yes,Vigorous PA
+2.2360000000000002,17.085000000000001,18.099,20,3,2,3,3,4,4,3,5,3,3,4,3,4,2,2,4,4,3,Male,Faculty of Social Sciences,economics,4th year,No,Light PA
+10.398,76.991,78.808999999999997,22,4,1,4,1,4,1,4,1,4,1,4,1,4,1,4,1,1,4,Male,Faculty of Science,biomed,1st year,Yes,Light PA
+7.649,42.256999999999998,49.698,21,2,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Social Sciences,psych,1st year,Yes,Moderate PA
+1.7849999999999999,117.551,118.161,37,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,4,2,4,Male,Faculty of Egineering,Computer Science,5th year,No,Moderate PA
+12.228,86.25,99.436999999999998,20,2,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,4,2,Male,Faculty of Health Sciences,human kinetics,1st year,Yes,Inactive
+0.80800000000000005,17.783000000000001,18.922000000000001,22,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Male,Telfer School of Management,management,2nd year,No,Moderate PA
+17.158999999999999,967.86699999999996,968.72400000000005,22,3,3,3,4,4,4,2,4,3,1,2,2,2,4,4,4,3,4,Female,Faculty of Health Sciences,health science,1st year,Yes,Moderate PA
+18.971,173.666,176.80099999999999,20,5,1,4,1,5,2,4,2,4,2,4,2,4,2,4,3,2,4,Male,Faculty of Science,Biology,3rd year,No,Vigorous PA
+6.7590000000000003,260.19200000000001,260.69600000000003,37,4,2,4,4,4,2,4,2,4,2,3,2,4,2,4,4,2,4,Male,Faculty of Social Sciences,B.A Honors Psychology,1st year,Yes,Light PA
+17.143999999999998,101.63500000000001,103.902,18,4,2,3,2,4,2,3,2,4,2,5,2,4,2,4,2,2,4,Female,Faculty of Health Sciences,Bachelor of Science in Nursing,2nd year,Yes,Light PA
+9.6460000000000008,69.498999999999995,71.278999999999996,19,4,1,4,1,5,1,5,1,4,1,3,1,4,1,4,2,2,4,Male,Faculty of Health Sciences,Health Science,1st year,Yes,Moderate PA
+1.5840000000000001,118.68,119.605,54,5,1,5,1,5,1,4,1,4,2,2,2,4,2,4,2,2,4,Male,Faculty of Science,Biomedical science,1st year,Yes,Light PA
+7.9160000000000004,93.152000000000001,94.241,19,5,1,5,1,5,1,5,1,4,1,3,1,4,1,1,3,1,5,Male,Faculty of Arts,Psychology,1st year,Yes,Moderate PA
+24.492000000000001,492.1,493.22899999999998,27,4,1,4,1,4,1,5,2,4,1,4,1,4,1,4,1,1,4,Female,Telfer School of Management,Management,5th year,Yes,Moderate PA
+1.127,21.006,22.672000000000001,24,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Male,Telfer School of Management,Finance,2nd year,No,Light PA
+14.56,74.007999999999996,74.768000000000001,21,3,2,5,2,5,1,5,1,4,1,4,1,4,1,5,3,1,5,Male,Telfer School of Management,Bcomm with an option in finance,2nd year,No,Vigorous PA
+2.448,61.710999999999999,62.390999999999998,39,5,2,5,2,5,2,5,2,5,2,4,2,4,2,5,4,2,4,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Moderate PA
+5.0759999999999996,67.403000000000006,68.096000000000004,27,4,2,4,2,5,1,4,1,3,4,4,2,4,1,3,4,2,4,Female,Faculty of Social Sciences,international development and economic,1st year,Yes,Light PA
+17.042999999999999,156.489,157.72200000000001,25,2,4,3,4,4,4,2,4,2,2,2,3,2,3,2,4,4,2,Female,Telfer School of Management,Bachelor of Commerce,2nd year,No,Inactive
+14.1,102.02500000000001,102.64700000000001,31,4,3,4,2,4,2,4,2,3,2,2,2,4,2,3,2,2,2,Female,Faculty of Social Sciences,psychology and linguistics,1st year,Yes,Inactive
+9.375,42.765999999999998,43.8,22,3,4,2,4,4,2,4,4,2,2,2,3,3,3,4,2,2,4,Male,Telfer School of Management,Finance,2nd year,No,Light PA
+6.38,121.925,122.727,20,4,2,5,1,4,2,5,1,4,1,3,1,3,1,4,4,2,5,Male,Faculty of Social Sciences,Economics,4th year,No,Vigorous PA
+0.80700000000000005,13.238,21.181000000000001,21,3,4,4,3,4,4,2,5,3,3,4,4,3,4,2,5,3,3,Female,Faculty of Arts,psychology and linguistics,1st year,Yes,Inactive
+179.315,383.56299999999999,384.07400000000001,21,3,2,5,5,2,5,2,5,2,5,2,5,1,5,1,1,5,1,Female,Faculty of Science,Biomedical sciene,1st year,Yes,Light PA
+22.452000000000002,105.773,107.054,19,2,4,2,4,2,4,2,4,2,4,2,4,2,4,2,4,4,2,Female,Faculty of Arts,Psychology,1st year,Yes,Light PA
+2.4209999999999998,13.605,14.05,20,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Male,Telfer School of Management,adm,2nd year,No,Moderate PA
+14.894,101.119,102.429,19,2,4,2,2,2,4,2,4,2,3,2,4,2,3,2,1,1,1,Female,Faculty of Social Sciences,BA in Psychology,1st year,Yes,Light PA
+18.074000000000002,85.155000000000001,85.906999999999996,22,5,2,4,1,4,2,4,1,4,1,4,1,4,1,5,3,1,5,Male,Faculty of Health Sciences,human kinetics,1st year,Yes,Vigorous PA
+9.6660000000000004,54.615000000000002,55.338999999999999,19,4,1,4,1,4,1,4,1,4,1,3,1,4,1,4,4,1,4,Female,Faculty of Health Sciences,Human Kinetics,2nd year,No,Vigorous PA
+136.74,305.64999999999998,315.685,20,2,2,4,2,4,2,2,3,2,2,2,3,2,2,3,2,2,2,Male,Faculty of Social Sciences,Economics,1st year,Yes,Light PA
+24.808,162.77000000000001,166.54400000000001,34,4,1,4,1,4,1,4,1,3,1,3,1,3,1,4,1,1,4,Female,Faculty of Social Sciences,Psychology,1st year,Yes,Inactive
+3.423,134.089,135.46,21,3,4,2,4,3,2,2,4,2,4,2,4,2,2,2,2,4,2,Female,Faculty of Health Sciences,Health Sciences,1st year,Yes,Inactive
+71.733000000000004,286.81599999999997,287.84300000000002,26,2,3,4,2,4,2,3,3,2,1,3,3,3,3,4,3,1,4,Female,Faculty of Health Sciences,Nursing,1st year,Yes,Inactive
+6.2140000000000004,70.105000000000004,71.015000000000001,19,4,2,4,2,5,1,4,2,4,2,4,2,4,2,4,2,2,4,Female,Faculty of Health Sciences,Human Kinetics,3rd year,No,Light PA
+16.068999999999999,143.54499999999999,146.61199999999999,34,4,2,4,2,4,2,4,2,4,1,3,1,3,2,4,3,1,5,Female,Faculty of Social Sciences,Criminologie,1st year,Yes,Light PA
+48.67,102.38500000000001,103.03100000000001,25,5,1,5,1,5,1,5,1,5,1,5,1,5,1,5,1,1,5,Male,Faculty of Social Sciences,Criminology,3rd year,No,Vigorous PA
+5.2530000000000001,77.766999999999996,78.968000000000004,18,2,4,3,4,2,4,2,4,2,2,2,4,2,4,2,4,3,3,Female,Faculty of Health Sciences,nursing,1st year,Yes,Light PA
+82.805999999999997,174.084,180.84,18,3,2,4,2,4,2,4,2,4,2,3,2,4,2,4,4,2,4,Male,Faculty of Arts,English,1st year,Yes,Light PA
+55.781999999999996,135.602,140.477,21,4,1,5,1,5,1,5,1,5,1,3,1,5,1,5,1,1,5,Male,Telfer School of Management,Accounting,2nd year,No,Vigorous PA
+5.617,425.15499999999997,427.64600000000002,28,3,2,5,1,4,2,4,2,4,2,4,1,4,1,5,3,1,5,Male,Faculty of Health Sciences,Health Sciences,1st year,Yes,Vigorous PA
+1.196,12.412000000000001,12.435,32,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Arts,Psych,1st year,Yes,Inactive
+5.3769999999999998,42.927999999999997,43.51,26,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Social Sciences,psych,2nd year,No,Inactive
+7.6550000000000002,147.667,148.70400000000001,21,3,2,4,3,4,3,3,3,3,2,3,3,3,3,3,3,3,3,Female,Faculty of Arts,psychology,1st year,Yes,Light PA
+3.6509999999999998,343.23599999999999,344.09500000000003,22,3,4,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Faculty of Health Sciences,health sciences,4th year,No,Moderate PA
+337.85700000000003,3433.7359999999999,3435.3139999999999,21,4,4,4,4,4,4,3,3,4,2,4,4,4,4,2,2,2,2,Female,Faculty of Social Sciences,PSYCHOLOGY,2nd year,No,Light PA
