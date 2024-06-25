@@ -30,10 +30,10 @@ View(bootstrap_independent)
 
 ### Synthpop parametric
 set.seed(123)
-synth_data <- syn(original_data)
+synth_data <- syn(original_data, method = "parametric")
 
-synthpop_default <- synth_data$syn
-write.csv(synthpop_default, "sport_psychology/Chen_1_2024/synthetic_data/synthpop_default.csv", row.names = FALSE)
+synthpop_parametric <- synth_data$syn
+write.csv(synthpop_parametric, "sport_psychology/Chen_1_2024/synthetic_data/synthpop_parametric.csv", row.names = FALSE)
 
 ### Synthpop "cart"
 set.seed(123)

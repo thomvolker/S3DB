@@ -4,6 +4,4 @@ OSF URL:https://osf.io/x6cvr/
 
 This folder refers to study 1 in the paper.
 
-This one is DONE.
-
-Error with dates & synthpop
+This study included open code files, and the code used to replicate the main findings was directly copied from these published files. Lines 34-133 are directly copied.

@@ -3,3 +3,5 @@ Emanuel, A., Haklay, I., Har-Nir, I., Halperin, I., & Liberman, N. (2024). The i
 OSF URL: https://osf.io/wjc46/?view_only=6c7557557b744881ba9998af52f69a53
 
 This folder refers to experiment 1 in the paper.
+
+This study did not include open code files. The code was replicated based on the information provided in the method section.

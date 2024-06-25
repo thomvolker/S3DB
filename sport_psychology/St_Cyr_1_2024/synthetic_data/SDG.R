@@ -28,13 +28,14 @@ write.csv(bootstrap_independent, "sport_psychology/St_Cyr_1_2024/synthetic_data/
 
 ### Synthpop parametric
 set.seed(123)
-synth_data <- syn(original_data)
+synth_data <- syn(original_data, method = "parametric")
 
-synthpop_default <- synth_data$syn
-write.csv(synthpop_default, "sport_psychology/St_Cyr_1_2024/synthetic_data/synthpop_default.csv", row.names = FALSE)
+synthpop_parametric <- synth_data$syn
+write.csv(synthpop_parametric, "sport_psychology/St_Cyr_1_2024/synthetic_data/synthpop_parametric.csv", row.names = FALSE)
 
 ### Synthpop "cart"
 set.seed(123)
 synth_data_cart <- syn(original_data, method = "cart") 
 synthpop_cart <- synth_data_cart$syn
-write.csv(synthpop_cart, "sport_psychology/St_Cyr_1_2024/synthetic_data/syntpop_cart.csv", row.names = FALSE)
+write.csv(synthpop_cart, "sport_psychology/St_Cyr_1_2024/synthetic_data/synthpop_cart.csv", row.names = FALSE)
+

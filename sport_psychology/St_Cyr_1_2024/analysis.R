@@ -10,8 +10,8 @@ if (!interactive()) {
     OUTPUT_FILE <- args[2]
   }
 } else {
-  INPUT_FILE  <- "sport_psychology/St_Cyr_1_2024/dataset.csv"
-  OUTPUT_FILE <- "sport_psychology/St_Cyr_1_2024/results/original.csv"
+  INPUT_FILE  <- "sport_psychology/St_Cyr_1_2024/synthetic_data/bootstrap_sample.csv"
+  OUTPUT_FILE <- "sport_psychology/St_Cyr_1_2024/results/bootstrap_sample.csv"
   
 }
 
@@ -140,7 +140,7 @@ results <- bind_rows(
   boot1    = tidy(mod1boot, conf.int = TRUE),
   boot2    = tidy(mod2boot, conf.int = TRUE),
   .id = "model" 
-) |> select(model, term, estimate, std.error, conf.low, conf.high, statistic)
+) |> dplyr::select(model, term, estimate, std.error, conf.low, conf.high, statistic)
 
 # store the results
 write_csv(results, OUTPUT_FILE)

@@ -1,9 +1,7 @@
 Emanuel, A., Haklay, I., Har-Nir, I., Halperin, I., & Liberman, N. (2024). The impact of task (un)certainty on repeated grip force production. Psychology of Sport and Exercise, 102618. https://doi.org/10.1016/j.psychsport.2024.102618
 
-Paper URL: https://www.sciencedirect.com/science/article/pii/S146902922400027X#da0010
-
 OSF URL: https://osf.io/wjc46/?view_only=6c7557557b744881ba9998af52f69a53
 
 This folder refers to experiment 2 in the paper, which is a replication of experiment 1 (with control & manipulation check measures).
 
-This one is DONE.
+This study did not include open code files. The code was replicated based on the information provided in the method section.
